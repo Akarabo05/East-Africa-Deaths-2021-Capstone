@@ -1,7 +1,7 @@
-# East-Africa-Deaths-2021-Capstone
-A big data analytics project on causes of death in East Africa using 2021 data.
-# East Africa Deaths 2021 – Big Data Capstone
 
+
+# East Africa Deaths 2021 – Big Data Capstone
+A big data analytics project on causes of death in East Africa using 2021 data.
 This project uses big data analytics to uncover the top causes of death across East African countries in 2021.
 
  Dataset
