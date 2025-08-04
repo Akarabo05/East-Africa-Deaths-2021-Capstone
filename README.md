@@ -35,7 +35,7 @@ This project uses big data analytics to uncover the top causes of death across E
 
 ## 📂 Project Structure
 ├── Deaths_East_Africa_2021_CLEAN.csv
-├── Country_Clusters_2021.csv
+├── big data pbix.pbix
 ├── East_Africa_Deaths_Analysis_2021.ipynb
 ├── PowerPoint_Presentation.pptx
 └── README.md
