@@ -1,0 +1,1513 @@
+measure,location,sex,age,cause,metric,val
+Deaths,Republic of Rwanda,Male,10 - 54 years,Other infectious diseases,Number,357.0117606
+Deaths,Republic of Rwanda,Female,10 - 54 years,Other infectious diseases,Number,243.0075576
+Deaths,Republic of Rwanda,Male,10 - 54 years,Other infectious diseases,Percent,0.02349609
+Deaths,Republic of Rwanda,Female,10 - 54 years,Other infectious diseases,Percent,0.021024919
+Deaths,Republic of Rwanda,Male,10 - 54 years,Other infectious diseases,Rate,8.32389557
+Deaths,Republic of Rwanda,Female,10 - 54 years,Other infectious diseases,Rate,5.375443494
+Deaths,Republic of Rwanda,Male,55+ years,Other infectious diseases,Number,212.3921584
+Deaths,Republic of Rwanda,Female,55+ years,Other infectious diseases,Number,233.1656286
+Deaths,Republic of Rwanda,Male,55+ years,Other infectious diseases,Percent,0.008665008
+Deaths,Republic of Rwanda,Female,55+ years,Other infectious diseases,Percent,0.009381196
+Deaths,Republic of Rwanda,Male,55+ years,Other infectious diseases,Rate,47.54441274
+Deaths,Republic of Rwanda,Female,55+ years,Other infectious diseases,Rate,38.17740977
+Deaths,United Republic of Tanzania,Male,<5 years,Nutritional deficiencies,Number,1352.259627
+Deaths,United Republic of Tanzania,Female,<5 years,Nutritional deficiencies,Number,1443.956002
+Deaths,United Republic of Tanzania,Male,<5 years,Nutritional deficiencies,Percent,0.025711681
+Deaths,United Republic of Tanzania,Female,<5 years,Nutritional deficiencies,Percent,0.031733183
+Deaths,United Republic of Tanzania,Male,<5 years,Nutritional deficiencies,Rate,30.2998052
+Deaths,United Republic of Tanzania,Female,<5 years,Nutritional deficiencies,Rate,32.94272495
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Nutritional deficiencies,Number,260.5827576
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Nutritional deficiencies,Number,233.5685906
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Nutritional deficiencies,Percent,0.00375898
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Nutritional deficiencies,Percent,0.004114574
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Nutritional deficiencies,Rate,1.459125107
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Nutritional deficiencies,Rate,1.200664256
+Deaths,United Republic of Tanzania,Male,55+ years,Nutritional deficiencies,Number,463.9642979
+Deaths,United Republic of Tanzania,Female,55+ years,Nutritional deficiencies,Number,530.5979978
+Deaths,United Republic of Tanzania,Male,55+ years,Nutritional deficiencies,Percent,0.004033523
+Deaths,United Republic of Tanzania,Female,55+ years,Nutritional deficiencies,Percent,0.005647724
+Deaths,United Republic of Tanzania,Male,55+ years,Nutritional deficiencies,Rate,23.20211156
+Deaths,United Republic of Tanzania,Female,55+ years,Nutritional deficiencies,Rate,24.99852546
+Deaths,United Republic of Tanzania,Male,<5 years,Protein-energy malnutrition,Number,1347.325866
+Deaths,United Republic of Tanzania,Female,<5 years,Protein-energy malnutrition,Number,1436.105026
+Deaths,United Republic of Tanzania,Male,<5 years,Protein-energy malnutrition,Percent,0.025618165
+Deaths,United Republic of Tanzania,Female,<5 years,Protein-energy malnutrition,Percent,0.031561258
+Deaths,United Republic of Tanzania,Male,<5 years,Protein-energy malnutrition,Rate,30.18925542
+Deaths,United Republic of Tanzania,Female,<5 years,Protein-energy malnutrition,Rate,32.76361108
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Protein-energy malnutrition,Number,243.2762284
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Protein-energy malnutrition,Number,200.6210566
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.00350921
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.003535121
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Protein-energy malnutrition,Rate,1.362217731
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Protein-energy malnutrition,Rate,1.031296764
+Deaths,United Republic of Tanzania,Male,55+ years,Protein-energy malnutrition,Number,428.356554
+Deaths,United Republic of Tanzania,Female,55+ years,Protein-energy malnutrition,Number,479.5078937
+Deaths,United Republic of Tanzania,Male,55+ years,Protein-energy malnutrition,Percent,0.003723867
+Deaths,United Republic of Tanzania,Female,55+ years,Protein-energy malnutrition,Percent,0.005104322
+Deaths,United Republic of Tanzania,Male,55+ years,Protein-energy malnutrition,Rate,21.4214253
+Deaths,United Republic of Tanzania,Female,55+ years,Protein-energy malnutrition,Rate,22.5914729
+Deaths,Republic of Uganda,Male,<5 years,Measles,Number,183.3936986
+Deaths,Republic of Uganda,Female,<5 years,Measles,Number,142.3542087
+Deaths,Republic of Uganda,Male,<5 years,Measles,Percent,0.003286129
+Deaths,Republic of Uganda,Female,<5 years,Measles,Percent,0.003141019
+Deaths,Republic of Uganda,Male,<5 years,Measles,Rate,4.913500652
+Deaths,Republic of Uganda,Female,<5 years,Measles,Rate,3.970525839
+Deaths,Republic of Uganda,Male,10 - 54 years,Measles,Number,4.971711986
+Deaths,Republic of Uganda,Female,10 - 54 years,Measles,Number,2.647173716
+Deaths,Republic of Uganda,Male,10 - 54 years,Measles,Percent,8.8e-05
+Deaths,Republic of Uganda,Female,10 - 54 years,Measles,Percent,6.66e-05
+Deaths,Republic of Uganda,Male,10 - 54 years,Measles,Rate,0.037655029
+Deaths,Republic of Uganda,Female,10 - 54 years,Measles,Rate,0.019144426
+Deaths,Republic of Uganda,Male,55+ years,Measles,Number,0.058301872
+Deaths,Republic of Uganda,Female,55+ years,Measles,Number,0.041029482
+Deaths,Republic of Uganda,Male,55+ years,Measles,Percent,8.55e-07
+Deaths,Republic of Uganda,Female,55+ years,Measles,Percent,6.98e-07
+Deaths,Republic of Uganda,Male,55+ years,Measles,Rate,0.005606306
+Deaths,Republic of Uganda,Female,55+ years,Measles,Rate,0.003081313
+Deaths,Republic of Uganda,Male,<5 years,Neglected tropical diseases and malaria,Number,17215.85125
+Deaths,Republic of Uganda,Female,<5 years,Neglected tropical diseases and malaria,Number,16237.9661
+Deaths,Republic of Uganda,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.302818989
+Deaths,Republic of Uganda,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.353555806
+Deaths,Republic of Uganda,Male,<5 years,Neglected tropical diseases and malaria,Rate,461.2486525
+Deaths,Republic of Uganda,Female,<5 years,Neglected tropical diseases and malaria,Rate,452.9073255
+Deaths,Republic of Uganda,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,4676.073585
+Deaths,Republic of Uganda,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,2646.718731
+Deaths,Republic of Uganda,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.08215615
+Deaths,Republic of Uganda,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.066202527
+Deaths,Republic of Uganda,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,35.41590658
+Deaths,Republic of Uganda,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,19.14113573
+Deaths,Republic of Uganda,Male,55+ years,Neglected tropical diseases and malaria,Number,1949.804027
+Deaths,Republic of Uganda,Female,55+ years,Neglected tropical diseases and malaria,Number,1886.286009
+Deaths,Republic of Uganda,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.02868458
+Deaths,Republic of Uganda,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.032214531
+Deaths,Republic of Uganda,Male,55+ years,Neglected tropical diseases and malaria,Rate,187.4930899
+Deaths,Republic of Uganda,Female,55+ years,Neglected tropical diseases and malaria,Rate,141.6600205
+Deaths,United Republic of Tanzania,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,42373.28227
+Deaths,United Republic of Tanzania,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,35471.52421
+Deaths,United Republic of Tanzania,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.80473517
+Deaths,United Republic of Tanzania,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.780626576
+Deaths,United Republic of Tanzania,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,949.4494789
+Deaths,United Republic of Tanzania,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,809.2550353
+Deaths,United Republic of Tanzania,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,35490.29784
+Deaths,United Republic of Tanzania,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,35629.15662
+Deaths,United Republic of Tanzania,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.51377868
+Deaths,United Republic of Tanzania,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.630146285
+Deaths,United Republic of Tanzania,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,198.7268272
+Deaths,United Republic of Tanzania,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,183.1524296
+Deaths,United Republic of Tanzania,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,46101.04209
+Deaths,United Republic of Tanzania,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,33194.81882
+Deaths,United Republic of Tanzania,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.402344599
+Deaths,United Republic of Tanzania,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.354235183
+Deaths,United Republic of Tanzania,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,2305.43929
+Deaths,United Republic of Tanzania,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,1563.936402
+Deaths,Republic of Burundi,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,14195.71812
+Deaths,Republic of Burundi,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,11821.00131
+Deaths,Republic of Burundi,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.87780591
+Deaths,Republic of Burundi,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.882426556
+Deaths,Republic of Burundi,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,1307.384365
+Deaths,Republic of Burundi,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,1100.061773
+Deaths,Republic of Burundi,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,7598.064386
+Deaths,Republic of Burundi,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,6221.477516
+Deaths,Republic of Burundi,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.478535582
+Deaths,Republic of Burundi,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.575026556
+Deaths,Republic of Burundi,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,183.5538498
+Deaths,Republic of Burundi,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,149.5127432
+Deaths,Republic of Burundi,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,9204.36046
+Deaths,Republic of Burundi,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,5766.320989
+Deaths,Republic of Burundi,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.397457886
+Deaths,Republic of Burundi,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.363692427
+Deaths,Republic of Burundi,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,2177.234871
+Deaths,Republic of Burundi,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,1526.39566
+Deaths,United Republic of Tanzania,Male,<5 years,Measles,Number,1050.658015
+Deaths,United Republic of Tanzania,Female,<5 years,Measles,Number,982.9743569
+Deaths,United Republic of Tanzania,Male,<5 years,Measles,Percent,0.019901093
+Deaths,United Republic of Tanzania,Female,<5 years,Measles,Percent,0.021489808
+Deaths,United Republic of Tanzania,Male,<5 years,Measles,Rate,23.54187949
+Deaths,United Republic of Tanzania,Female,<5 years,Measles,Rate,22.42578986
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Measles,Number,44.766254
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Measles,Number,54.45320046
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Measles,Percent,0.000646835
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Measles,Percent,0.000959428
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Measles,Rate,0.250667257
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Measles,Rate,0.279917823
+Deaths,United Republic of Tanzania,Male,55+ years,Measles,Number,0.632950423
+Deaths,United Republic of Tanzania,Female,55+ years,Measles,Number,0.481480319
+Deaths,United Republic of Tanzania,Male,55+ years,Measles,Percent,5.49e-06
+Deaths,United Republic of Tanzania,Female,55+ years,Measles,Percent,5.11e-06
+Deaths,United Republic of Tanzania,Male,55+ years,Measles,Rate,0.031652837
+Deaths,United Republic of Tanzania,Female,55+ years,Measles,Rate,0.022684401
+Deaths,United Republic of Tanzania,Male,<5 years,Neglected tropical diseases and malaria,Number,5866.407932
+Deaths,United Republic of Tanzania,Female,<5 years,Neglected tropical diseases and malaria,Number,5908.804921
+Deaths,United Republic of Tanzania,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.111967238
+Deaths,United Republic of Tanzania,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.130127884
+Deaths,United Republic of Tanzania,Male,<5 years,Neglected tropical diseases and malaria,Rate,131.447404
+Deaths,United Republic of Tanzania,Female,<5 years,Neglected tropical diseases and malaria,Rate,134.8047551
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,1432.822609
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,1071.295664
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.020696754
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.018878097
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,8.023045969
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,5.50701791
+Deaths,United Republic of Tanzania,Male,55+ years,Neglected tropical diseases and malaria,Number,854.9027804
+Deaths,United Republic of Tanzania,Female,55+ years,Neglected tropical diseases and malaria,Number,873.1165408
+Deaths,United Republic of Tanzania,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.007428898
+Deaths,United Republic of Tanzania,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.009278041
+Deaths,United Republic of Tanzania,Male,55+ years,Neglected tropical diseases and malaria,Rate,42.75231903
+Deaths,United Republic of Tanzania,Female,55+ years,Neglected tropical diseases and malaria,Rate,41.13589981
+Deaths,Republic of Uganda,Male,<5 years,Non-communicable diseases,Number,5456.199935
+Deaths,Republic of Uganda,Female,<5 years,Non-communicable diseases,Number,4694.587573
+Deaths,Republic of Uganda,Male,<5 years,Non-communicable diseases,Percent,0.0977895
+Deaths,Republic of Uganda,Female,<5 years,Non-communicable diseases,Percent,0.104649008
+Deaths,Republic of Uganda,Male,<5 years,Non-communicable diseases,Rate,146.1830049
+Deaths,Republic of Uganda,Female,<5 years,Non-communicable diseases,Rate,130.9408512
+Deaths,Republic of Uganda,Male,10 - 54 years,Non-communicable diseases,Number,14204.37745
+Deaths,Republic of Uganda,Female,10 - 54 years,Non-communicable diseases,Number,9537.156052
+Deaths,Republic of Uganda,Male,10 - 54 years,Non-communicable diseases,Percent,0.251804202
+Deaths,Republic of Uganda,Female,10 - 54 years,Non-communicable diseases,Percent,0.240395734
+Deaths,Republic of Uganda,Male,10 - 54 years,Non-communicable diseases,Rate,107.5819052
+Deaths,Republic of Uganda,Female,10 - 54 years,Non-communicable diseases,Rate,68.97294989
+Deaths,Republic of Uganda,Male,55+ years,Non-communicable diseases,Number,29283.26283
+Deaths,Republic of Uganda,Female,55+ years,Non-communicable diseases,Number,28313.76124
+Deaths,Republic of Uganda,Male,55+ years,Non-communicable diseases,Percent,0.431543308
+Deaths,Republic of Uganda,Female,55+ years,Non-communicable diseases,Percent,0.485318762
+Deaths,Republic of Uganda,Male,55+ years,Non-communicable diseases,Rate,2815.877572
+Deaths,Republic of Uganda,Female,55+ years,Non-communicable diseases,Rate,2126.362587
+Deaths,Republic of Burundi,Male,<5 years,Measles,Number,159.6530197
+Deaths,Republic of Burundi,Female,<5 years,Measles,Number,131.5525873
+Deaths,Republic of Burundi,Male,<5 years,Measles,Percent,0.009882596
+Deaths,Republic of Burundi,Female,<5 years,Measles,Percent,0.009832696
+Deaths,Republic of Burundi,Male,<5 years,Measles,Rate,14.70357894
+Deaths,Republic of Burundi,Female,<5 years,Measles,Rate,12.242277
+Deaths,Republic of Burundi,Male,10 - 54 years,Measles,Number,10.22839792
+Deaths,Republic of Burundi,Female,10 - 54 years,Measles,Number,13.97576446
+Deaths,Republic of Burundi,Male,10 - 54 years,Measles,Percent,0.000644076
+Deaths,Republic of Burundi,Female,10 - 54 years,Measles,Percent,0.001292412
+Deaths,Republic of Burundi,Male,10 - 54 years,Measles,Rate,0.247097382
+Deaths,Republic of Burundi,Female,10 - 54 years,Measles,Rate,0.335861518
+Deaths,Republic of Burundi,Male,55+ years,Measles,Number,0.173141213
+Deaths,Republic of Burundi,Female,55+ years,Measles,Number,0.10077059
+Deaths,Republic of Burundi,Male,55+ years,Measles,Percent,7.44e-06
+Deaths,Republic of Burundi,Female,55+ years,Measles,Percent,6.33e-06
+Deaths,Republic of Burundi,Male,55+ years,Measles,Rate,0.040955489
+Deaths,Republic of Burundi,Female,55+ years,Measles,Rate,0.026674858
+Deaths,Republic of Burundi,Male,<5 years,Neglected tropical diseases and malaria,Number,5402.288552
+Deaths,Republic of Burundi,Female,<5 years,Neglected tropical diseases and malaria,Number,4769.104015
+Deaths,Republic of Burundi,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.331696969
+Deaths,Republic of Burundi,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.353545933
+Deaths,Republic of Burundi,Male,<5 years,Neglected tropical diseases and malaria,Rate,497.5350688
+Deaths,Republic of Burundi,Female,<5 years,Neglected tropical diseases and malaria,Rate,443.8125741
+Deaths,Republic of Burundi,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,1327.101794
+Deaths,Republic of Burundi,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,881.6322677
+Deaths,Republic of Burundi,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.083068042
+Deaths,Republic of Burundi,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.081036291
+Deaths,Republic of Burundi,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,32.06009202
+Deaths,Republic of Burundi,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,21.18713095
+Deaths,Republic of Burundi,Male,55+ years,Neglected tropical diseases and malaria,Number,702.8030437
+Deaths,Republic of Burundi,Female,55+ years,Neglected tropical diseases and malaria,Number,593.7431438
+Deaths,Republic of Burundi,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.030182326
+Deaths,Republic of Burundi,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.037249403
+Deaths,Republic of Burundi,Male,55+ years,Neglected tropical diseases and malaria,Rate,166.2437386
+Deaths,Republic of Burundi,Female,55+ years,Neglected tropical diseases and malaria,Rate,157.1690095
+Deaths,Republic of Burundi,Male,<5 years,Non-communicable diseases,Number,1499.740234
+Deaths,Republic of Burundi,Female,<5 years,Non-communicable diseases,Number,1228.312574
+Deaths,Republic of Burundi,Male,<5 years,Non-communicable diseases,Percent,0.092794215
+Deaths,Republic of Burundi,Female,<5 years,Non-communicable diseases,Percent,0.09201138
+Deaths,Republic of Burundi,Male,<5 years,Non-communicable diseases,Rate,138.1217151
+Deaths,Republic of Burundi,Female,<5 years,Non-communicable diseases,Rate,114.3067049
+Deaths,Republic of Burundi,Male,10 - 54 years,Non-communicable diseases,Number,4755.374441
+Deaths,Republic of Burundi,Female,10 - 54 years,Non-communicable diseases,Number,3425.3859
+Deaths,Republic of Burundi,Male,10 - 54 years,Non-communicable diseases,Percent,0.298758344
+Deaths,Republic of Burundi,Female,10 - 54 years,Non-communicable diseases,Percent,0.315911451
+Deaths,Republic of Burundi,Male,10 - 54 years,Non-communicable diseases,Rate,114.8802171
+Deaths,Republic of Burundi,Female,10 - 54 years,Non-communicable diseases,Rate,82.31788045
+Deaths,Republic of Burundi,Male,55+ years,Non-communicable diseases,Number,10914.79918
+Deaths,Republic of Burundi,Female,55+ years,Non-communicable diseases,Number,8725.437072
+Deaths,Republic of Burundi,Male,55+ years,Non-communicable diseases,Percent,0.469805785
+Deaths,Republic of Burundi,Female,55+ years,Non-communicable diseases,Percent,0.548776471
+Deaths,Republic of Burundi,Male,55+ years,Non-communicable diseases,Rate,2581.828633
+Deaths,Republic of Burundi,Female,55+ years,Non-communicable diseases,Rate,2309.6996
+Deaths,Republic of Uganda,Male,<5 years,Other infectious diseases,Number,2704.30236
+Deaths,Republic of Uganda,Female,<5 years,Other infectious diseases,Number,1996.131428
+Deaths,Republic of Uganda,Male,<5 years,Other infectious diseases,Percent,0.049031587
+Deaths,Republic of Uganda,Female,<5 years,Other infectious diseases,Percent,0.045008163
+Deaths,Republic of Uganda,Male,<5 years,Other infectious diseases,Rate,72.45391478
+Deaths,Republic of Uganda,Female,<5 years,Other infectious diseases,Rate,55.67584888
+Deaths,Republic of Uganda,Male,10 - 54 years,Other infectious diseases,Number,1235.690785
+Deaths,Republic of Uganda,Female,10 - 54 years,Other infectious diseases,Number,645.2628623
+Deaths,Republic of Uganda,Male,10 - 54 years,Other infectious diseases,Percent,0.021931366
+Deaths,Republic of Uganda,Female,10 - 54 years,Other infectious diseases,Percent,0.016271809
+Deaths,Republic of Uganda,Male,10 - 54 years,Other infectious diseases,Rate,9.3589437
+Deaths,Republic of Uganda,Female,10 - 54 years,Other infectious diseases,Rate,4.666557076
+Deaths,Republic of Uganda,Male,55+ years,Other infectious diseases,Number,571.4608216
+Deaths,Republic of Uganda,Female,55+ years,Other infectious diseases,Number,470.1696872
+Deaths,Republic of Uganda,Male,55+ years,Other infectious diseases,Percent,0.008419517
+Deaths,Republic of Uganda,Female,55+ years,Other infectious diseases,Percent,0.008055917
+Deaths,Republic of Uganda,Male,55+ years,Other infectious diseases,Rate,54.95165345
+Deaths,Republic of Uganda,Female,55+ years,Other infectious diseases,Rate,35.30972885
+Deaths,Republic of Rwanda,Male,<5 years,Measles,Number,43.69142433
+Deaths,Republic of Rwanda,Female,<5 years,Measles,Number,32.92640854
+Deaths,Republic of Rwanda,Male,<5 years,Measles,Percent,0.005261814
+Deaths,Republic of Rwanda,Female,<5 years,Measles,Percent,0.004789309
+Deaths,Republic of Rwanda,Male,<5 years,Measles,Rate,4.918013399
+Deaths,Republic of Rwanda,Female,<5 years,Measles,Rate,3.828356464
+Deaths,Republic of Rwanda,Male,10 - 54 years,Measles,Number,1.838338256
+Deaths,Republic of Rwanda,Female,10 - 54 years,Measles,Number,1.433331251
+Deaths,Republic of Rwanda,Male,10 - 54 years,Measles,Percent,0.000120962
+Deaths,Republic of Rwanda,Female,10 - 54 years,Measles,Percent,0.000124315
+Deaths,Republic of Rwanda,Male,10 - 54 years,Measles,Rate,0.042861713
+Deaths,Republic of Rwanda,Female,10 - 54 years,Measles,Rate,0.031705973
+Deaths,Republic of Rwanda,Male,55+ years,Measles,Number,0.036552478
+Deaths,Republic of Rwanda,Female,55+ years,Measles,Number,0.028452893
+Deaths,Republic of Rwanda,Male,55+ years,Measles,Percent,1.49e-06
+Deaths,Republic of Rwanda,Female,55+ years,Measles,Percent,1.14e-06
+Deaths,Republic of Rwanda,Male,55+ years,Measles,Rate,0.008182346
+Deaths,Republic of Rwanda,Female,55+ years,Measles,Rate,0.004658739
+Deaths,Republic of Rwanda,Male,<5 years,Neglected tropical diseases and malaria,Number,910.5560563
+Deaths,Republic of Rwanda,Female,<5 years,Neglected tropical diseases and malaria,Number,906.0278524
+Deaths,Republic of Rwanda,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.110108637
+Deaths,Republic of Rwanda,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.13233906
+Deaths,Republic of Rwanda,Male,<5 years,Neglected tropical diseases and malaria,Rate,102.4944129
+Deaths,Republic of Rwanda,Female,<5 years,Neglected tropical diseases and malaria,Rate,105.3439394
+Deaths,Republic of Rwanda,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,466.4885369
+Deaths,Republic of Rwanda,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,309.8131073
+Deaths,Republic of Rwanda,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.030708474
+Deaths,Republic of Rwanda,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.026817509
+Deaths,Republic of Rwanda,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,10.87639763
+Deaths,Republic of Rwanda,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,6.853214231
+Deaths,Republic of Rwanda,Male,55+ years,Neglected tropical diseases and malaria,Number,287.5404003
+Deaths,Republic of Rwanda,Female,55+ years,Neglected tropical diseases and malaria,Number,297.2581224
+Deaths,Republic of Rwanda,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.01172212
+Deaths,Republic of Rwanda,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.011952563
+Deaths,Republic of Rwanda,Male,55+ years,Neglected tropical diseases and malaria,Rate,64.36649815
+Deaths,Republic of Rwanda,Female,55+ years,Neglected tropical diseases and malaria,Rate,48.67160402
+Deaths,United Republic of Tanzania,Male,<5 years,Non-communicable diseases,Number,7998.043025
+Deaths,United Republic of Tanzania,Female,<5 years,Non-communicable diseases,Number,7790.481965
+Deaths,United Republic of Tanzania,Male,<5 years,Non-communicable diseases,Percent,0.152183396
+Deaths,United Republic of Tanzania,Female,<5 years,Non-communicable diseases,Percent,0.171627219
+Deaths,United Republic of Tanzania,Male,<5 years,Non-communicable diseases,Rate,179.2105161
+Deaths,United Republic of Tanzania,Female,<5 years,Non-communicable diseases,Rate,177.7337427
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Non-communicable diseases,Number,19305.15275
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Non-communicable diseases,Number,15566.69588
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Non-communicable diseases,Percent,0.278296574
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Non-communicable diseases,Percent,0.273718947
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Non-communicable diseases,Rate,108.0986069
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Non-communicable diseases,Rate,80.02092784
+Deaths,United Republic of Tanzania,Male,55+ years,Non-communicable diseases,Number,51910.87567
+Deaths,United Republic of Tanzania,Female,55+ years,Non-communicable diseases,Number,50584.02334
+Deaths,United Republic of Tanzania,Male,55+ years,Non-communicable diseases,Percent,0.45104164
+Deaths,United Republic of Tanzania,Female,55+ years,Non-communicable diseases,Percent,0.537515435
+Deaths,United Republic of Tanzania,Male,55+ years,Non-communicable diseases,Rate,2595.979764
+Deaths,United Republic of Tanzania,Female,55+ years,Non-communicable diseases,Rate,2383.209135
+Deaths,Republic of Uganda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,47984.00524
+Deaths,Republic of Uganda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,38430.87238
+Deaths,Republic of Uganda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.858475655
+Deaths,Republic of Uganda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.85160849
+Deaths,Republic of Uganda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,1285.591832
+Deaths,Republic of Uganda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,1071.9091
+Deaths,Republic of Uganda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,29697.86532
+Deaths,Republic of Uganda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,26107.08979
+Deaths,Republic of Uganda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.527540074
+Deaths,Republic of Uganda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.661438208
+Deaths,Republic of Uganda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,224.9273465
+Deaths,Republic of Uganda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,188.807123
+Deaths,Republic of Uganda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,27839.62919
+Deaths,Republic of Uganda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,22853.74714
+Deaths,Republic of Uganda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.411516732
+Deaths,Republic of Uganda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.39352929
+Deaths,Republic of Uganda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,2677.05781
+Deaths,Republic of Uganda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,1716.315698
+Deaths,United Republic of Tanzania,Male,<5 years,Other infectious diseases,Number,3070.682841
+Deaths,United Republic of Tanzania,Female,<5 years,Other infectious diseases,Number,2893.138
+Deaths,United Republic of Tanzania,Male,<5 years,Other infectious diseases,Percent,0.058157837
+Deaths,United Republic of Tanzania,Female,<5 years,Other infectious diseases,Percent,0.063363799
+Deaths,United Republic of Tanzania,Male,<5 years,Other infectious diseases,Rate,68.80416308
+Deaths,United Republic of Tanzania,Female,<5 years,Other infectious diseases,Rate,66.00467689
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Other infectious diseases,Number,1141.977482
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Other infectious diseases,Number,946.7053511
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Other infectious diseases,Percent,0.016480339
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Other infectious diseases,Percent,0.016648404
+Deaths,United Republic of Tanzania,Male,10 - 54 years,Other infectious diseases,Rate,6.39446766
+Deaths,United Republic of Tanzania,Female,10 - 54 years,Other infectious diseases,Rate,4.866558784
+Deaths,United Republic of Tanzania,Male,55+ years,Other infectious diseases,Number,837.9261827
+Deaths,United Republic of Tanzania,Female,55+ years,Other infectious diseases,Number,812.8274773
+Deaths,United Republic of Tanzania,Male,55+ years,Other infectious diseases,Percent,0.007281355
+Deaths,United Republic of Tanzania,Female,55+ years,Other infectious diseases,Percent,0.008631771
+Deaths,United Republic of Tanzania,Male,55+ years,Other infectious diseases,Rate,41.90334656
+Deaths,United Republic of Tanzania,Female,55+ years,Other infectious diseases,Rate,38.29544866
+Deaths,Republic of Uganda,Male,<5 years,Nutritional deficiencies,Number,1159.165291
+Deaths,Republic of Uganda,Female,<5 years,Nutritional deficiencies,Number,1019.422454
+Deaths,Republic of Uganda,Male,<5 years,Nutritional deficiencies,Percent,0.021016095
+Deaths,Republic of Uganda,Female,<5 years,Nutritional deficiencies,Percent,0.022943347
+Deaths,Republic of Uganda,Male,<5 years,Nutritional deficiencies,Rate,31.05646191
+Deaths,Republic of Uganda,Female,<5 years,Nutritional deficiencies,Rate,28.43360397
+Deaths,Republic of Uganda,Male,10 - 54 years,Nutritional deficiencies,Number,222.6016026
+Deaths,Republic of Uganda,Female,10 - 54 years,Nutritional deficiencies,Number,145.1197705
+Deaths,Republic of Uganda,Male,10 - 54 years,Nutritional deficiencies,Percent,0.003952573
+Deaths,Republic of Uganda,Female,10 - 54 years,Nutritional deficiencies,Percent,0.003658959
+Deaths,Republic of Uganda,Male,10 - 54 years,Nutritional deficiencies,Rate,1.685952417
+Deaths,Republic of Uganda,Female,10 - 54 years,Nutritional deficiencies,Rate,1.049509792
+Deaths,Republic of Uganda,Male,55+ years,Nutritional deficiencies,Number,282.8102719
+Deaths,Republic of Uganda,Female,55+ years,Nutritional deficiencies,Number,296.7414636
+Deaths,Republic of Uganda,Male,55+ years,Nutritional deficiencies,Percent,0.004171818
+Deaths,Republic of Uganda,Female,55+ years,Nutritional deficiencies,Percent,0.005093321
+Deaths,Republic of Uganda,Male,55+ years,Nutritional deficiencies,Rate,27.19502627
+Deaths,Republic of Uganda,Female,55+ years,Nutritional deficiencies,Rate,22.28527467
+Deaths,Republic of Uganda,Male,<5 years,Protein-energy malnutrition,Number,1156.851101
+Deaths,Republic of Uganda,Female,<5 years,Protein-energy malnutrition,Number,1015.638339
+Deaths,Republic of Uganda,Male,<5 years,Protein-energy malnutrition,Percent,0.020974105
+Deaths,Republic of Uganda,Female,<5 years,Protein-energy malnutrition,Percent,0.022857571
+Deaths,Republic of Uganda,Male,<5 years,Protein-energy malnutrition,Rate,30.9944599
+Deaths,Republic of Uganda,Female,<5 years,Protein-energy malnutrition,Rate,28.3280579
+Deaths,Republic of Uganda,Male,10 - 54 years,Protein-energy malnutrition,Number,213.7885526
+Deaths,Republic of Uganda,Female,10 - 54 years,Protein-energy malnutrition,Number,133.8237443
+Deaths,Republic of Uganda,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.003795491
+Deaths,Republic of Uganda,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.003375318
+Deaths,Republic of Uganda,Male,10 - 54 years,Protein-energy malnutrition,Rate,1.619203648
+Deaths,Republic of Uganda,Female,10 - 54 years,Protein-energy malnutrition,Rate,0.967816649
+Deaths,Republic of Uganda,Male,55+ years,Protein-energy malnutrition,Number,271.5001905
+Deaths,Republic of Uganda,Female,55+ years,Protein-energy malnutrition,Number,280.9147141
+Deaths,Republic of Uganda,Male,55+ years,Protein-energy malnutrition,Percent,0.004005
+Deaths,Republic of Uganda,Female,55+ years,Protein-energy malnutrition,Percent,0.004821849
+Deaths,Republic of Uganda,Male,55+ years,Protein-energy malnutrition,Rate,26.10744922
+Deaths,Republic of Uganda,Female,55+ years,Protein-energy malnutrition,Rate,21.09668627
+Deaths,Republic of Burundi,Male,<5 years,Other infectious diseases,Number,609.4285422
+Deaths,Republic of Burundi,Female,<5 years,Other infectious diseases,Number,476.3849005
+Deaths,Republic of Burundi,Male,<5 years,Other infectious diseases,Percent,0.037823098
+Deaths,Republic of Burundi,Female,<5 years,Other infectious diseases,Percent,0.035727681
+Deaths,Republic of Burundi,Male,<5 years,Other infectious diseases,Rate,56.12659685
+Deaths,Republic of Burundi,Female,<5 years,Other infectious diseases,Rate,44.33235431
+Deaths,Republic of Burundi,Male,10 - 54 years,Other infectious diseases,Number,447.187508
+Deaths,Republic of Burundi,Female,10 - 54 years,Other infectious diseases,Number,287.7465456
+Deaths,Republic of Burundi,Male,10 - 54 years,Other infectious diseases,Percent,0.028105336
+Deaths,Republic of Burundi,Female,10 - 54 years,Other infectious diseases,Percent,0.026595929
+Deaths,Republic of Burundi,Male,10 - 54 years,Other infectious diseases,Rate,10.80314466
+Deaths,Republic of Burundi,Female,10 - 54 years,Other infectious diseases,Rate,6.915041526
+Deaths,Republic of Burundi,Male,55+ years,Other infectious diseases,Number,248.9440228
+Deaths,Republic of Burundi,Female,55+ years,Other infectious diseases,Number,158.4881176
+Deaths,Republic of Burundi,Male,55+ years,Other infectious diseases,Percent,0.010708748
+Deaths,Republic of Burundi,Female,55+ years,Other infectious diseases,Percent,0.009971188
+Deaths,Republic of Burundi,Male,55+ years,Other infectious diseases,Rate,58.88617787
+Deaths,Republic of Burundi,Female,55+ years,Other infectious diseases,Rate,41.95319258
+Deaths,Republic of Kenya,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,49228.69227
+Deaths,Republic of Kenya,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,30528.99935
+Deaths,Republic of Kenya,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.467367348
+Deaths,Republic of Kenya,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.362775027
+Deaths,Republic of Kenya,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,2814.479526
+Deaths,Republic of Kenya,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,1532.849608
+Deaths,Republic of Kenya,Male,<5 years,Measles,Number,372.3343045
+Deaths,Republic of Kenya,Female,<5 years,Measles,Number,332.3015192
+Deaths,Republic of Kenya,Male,<5 years,Measles,Percent,0.015710743
+Deaths,Republic of Kenya,Female,<5 years,Measles,Percent,0.016854087
+Deaths,Republic of Kenya,Male,<5 years,Measles,Rate,12.31225042
+Deaths,Republic of Kenya,Female,<5 years,Measles,Rate,11.35651087
+Deaths,Republic of Kenya,Male,10 - 54 years,Measles,Number,19.61959773
+Deaths,Republic of Kenya,Female,10 - 54 years,Measles,Number,23.77227503
+Deaths,Republic of Kenya,Male,10 - 54 years,Measles,Percent,0.000270294
+Deaths,Republic of Kenya,Female,10 - 54 years,Measles,Percent,0.000506121
+Deaths,Republic of Kenya,Male,10 - 54 years,Measles,Rate,0.116080779
+Deaths,Republic of Kenya,Female,10 - 54 years,Measles,Rate,0.138469716
+Deaths,Republic of Kenya,Male,55+ years,Measles,Number,0.319746257
+Deaths,Republic of Kenya,Female,55+ years,Measles,Number,0.269151576
+Deaths,Republic of Kenya,Male,55+ years,Measles,Percent,3.03e-06
+Deaths,Republic of Kenya,Female,55+ years,Measles,Percent,3.18e-06
+Deaths,Republic of Kenya,Male,55+ years,Measles,Rate,0.018280382
+Deaths,Republic of Kenya,Female,55+ years,Measles,Rate,0.013514
+Deaths,Republic of Kenya,Male,<5 years,Neglected tropical diseases and malaria,Number,2249.79662
+Deaths,Republic of Kenya,Female,<5 years,Neglected tropical diseases and malaria,Number,2447.851725
+Deaths,Republic of Kenya,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.094613621
+Deaths,Republic of Kenya,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.123581371
+Deaths,Republic of Kenya,Male,<5 years,Neglected tropical diseases and malaria,Rate,74.39566821
+Deaths,Republic of Kenya,Female,<5 years,Neglected tropical diseases and malaria,Rate,83.65611687
+Deaths,Republic of Kenya,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,1203.025661
+Deaths,Republic of Kenya,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,790.1299733
+Deaths,Republic of Kenya,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.016567048
+Deaths,Republic of Kenya,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.016827407
+Deaths,Republic of Kenya,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,7.117788946
+Deaths,Republic of Kenya,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,4.602381258
+Deaths,Republic of Kenya,Male,55+ years,Neglected tropical diseases and malaria,Number,637.1241705
+Deaths,Republic of Kenya,Female,55+ years,Neglected tropical diseases and malaria,Number,715.1750932
+Deaths,Republic of Kenya,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.006035974
+Deaths,Republic of Kenya,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.008467428
+Deaths,Republic of Kenya,Male,55+ years,Neglected tropical diseases and malaria,Rate,36.42536193
+Deaths,Republic of Kenya,Female,55+ years,Neglected tropical diseases and malaria,Rate,35.90867321
+Deaths,Republic of Burundi,Male,<5 years,Nutritional deficiencies,Number,427.5292885
+Deaths,Republic of Burundi,Female,<5 years,Nutritional deficiencies,Number,367.0515934
+Deaths,Republic of Burundi,Male,<5 years,Nutritional deficiencies,Percent,0.026552456
+Deaths,Republic of Burundi,Female,<5 years,Nutritional deficiencies,Percent,0.027564904
+Deaths,Republic of Burundi,Male,<5 years,Nutritional deficiencies,Rate,39.37420445
+Deaths,Republic of Burundi,Female,<5 years,Nutritional deficiencies,Rate,34.15780239
+Deaths,Republic of Burundi,Male,10 - 54 years,Nutritional deficiencies,Number,135.6217331
+Deaths,Republic of Burundi,Female,10 - 54 years,Nutritional deficiencies,Number,110.6818643
+Deaths,Republic of Burundi,Male,10 - 54 years,Nutritional deficiencies,Percent,0.008525345
+Deaths,Republic of Burundi,Female,10 - 54 years,Nutritional deficiencies,Percent,0.01022742
+Deaths,Republic of Burundi,Male,10 - 54 years,Nutritional deficiencies,Rate,3.276346444
+Deaths,Republic of Burundi,Female,10 - 54 years,Nutritional deficiencies,Rate,2.659874461
+Deaths,Republic of Burundi,Male,55+ years,Nutritional deficiencies,Number,207.6735152
+Deaths,Republic of Burundi,Female,55+ years,Nutritional deficiencies,Number,155.1137711
+Deaths,Republic of Burundi,Male,55+ years,Nutritional deficiencies,Percent,0.008940536
+Deaths,Republic of Burundi,Female,55+ years,Nutritional deficiencies,Percent,0.00976412
+Deaths,Republic of Burundi,Male,55+ years,Nutritional deficiencies,Rate,49.12389308
+Deaths,Republic of Burundi,Female,55+ years,Nutritional deficiencies,Rate,41.05997351
+Deaths,Republic of Burundi,Male,<5 years,Protein-energy malnutrition,Number,426.6809108
+Deaths,Republic of Burundi,Female,<5 years,Protein-energy malnutrition,Number,365.4519341
+Deaths,Republic of Burundi,Male,<5 years,Protein-energy malnutrition,Percent,0.026499593
+Deaths,Republic of Burundi,Female,<5 years,Protein-energy malnutrition,Percent,0.02744499
+Deaths,Republic of Burundi,Male,<5 years,Protein-energy malnutrition,Rate,39.29607133
+Deaths,Republic of Burundi,Female,<5 years,Protein-energy malnutrition,Rate,34.00893817
+Deaths,Republic of Burundi,Male,10 - 54 years,Protein-energy malnutrition,Number,129.5085365
+Deaths,Republic of Burundi,Female,10 - 54 years,Protein-energy malnutrition,Number,98.52819486
+Deaths,Republic of Burundi,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.008140169
+Deaths,Republic of Burundi,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.009106944
+Deaths,Republic of Burundi,Male,10 - 54 years,Protein-energy malnutrition,Rate,3.128663992
+Deaths,Republic of Burundi,Female,10 - 54 years,Protein-energy malnutrition,Rate,2.367801002
+Deaths,Republic of Burundi,Male,55+ years,Protein-energy malnutrition,Number,198.8572499
+Deaths,Republic of Burundi,Female,55+ years,Protein-energy malnutrition,Number,144.4734409
+Deaths,Republic of Burundi,Male,55+ years,Protein-energy malnutrition,Percent,0.008560615
+Deaths,Republic of Burundi,Female,55+ years,Protein-energy malnutrition,Percent,0.009095092
+Deaths,Republic of Burundi,Male,55+ years,Protein-energy malnutrition,Rate,47.03845972
+Deaths,Republic of Burundi,Female,55+ years,Protein-energy malnutrition,Rate,38.24338493
+Deaths,Republic of Kenya,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,20551.46304
+Deaths,Republic of Kenya,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,17145.02848
+Deaths,Republic of Kenya,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.866044941
+Deaths,Republic of Kenya,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.867627321
+Deaths,Republic of Kenya,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,679.5902402
+Deaths,Republic of Kenya,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,585.9368405
+Deaths,Republic of Kenya,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,41482.8672
+Deaths,Republic of Kenya,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,29014.78888
+Deaths,Republic of Kenya,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.571831126
+Deaths,Republic of Kenya,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.618821899
+Deaths,Republic of Kenya,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,245.4364052
+Deaths,Republic of Kenya,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,169.0065243
+Deaths,Republic of South Sudan,Male,<5 years,Non-communicable diseases,Number,2462.073651
+Deaths,Republic of South Sudan,Female,<5 years,Non-communicable diseases,Number,2122.402418
+Deaths,Republic of South Sudan,Male,<5 years,Non-communicable diseases,Percent,0.093646668
+Deaths,Republic of South Sudan,Female,<5 years,Non-communicable diseases,Percent,0.09903809
+Deaths,Republic of South Sudan,Male,<5 years,Non-communicable diseases,Rate,304.9765076
+Deaths,Republic of South Sudan,Female,<5 years,Non-communicable diseases,Rate,281.1000527
+Deaths,Republic of South Sudan,Male,10 - 54 years,Non-communicable diseases,Number,4351.435575
+Deaths,Republic of South Sudan,Female,10 - 54 years,Non-communicable diseases,Number,3195.342662
+Deaths,Republic of South Sudan,Male,10 - 54 years,Non-communicable diseases,Percent,0.26359759
+Deaths,Republic of South Sudan,Female,10 - 54 years,Non-communicable diseases,Percent,0.265808172
+Deaths,Republic of South Sudan,Male,10 - 54 years,Non-communicable diseases,Rate,145.2088717
+Deaths,Republic of South Sudan,Female,10 - 54 years,Non-communicable diseases,Rate,102.4159463
+Deaths,Republic of South Sudan,Male,55+ years,Non-communicable diseases,Number,10107.7983
+Deaths,Republic of South Sudan,Female,55+ years,Non-communicable diseases,Number,6854.887762
+Deaths,Republic of South Sudan,Male,55+ years,Non-communicable diseases,Percent,0.445677192
+Deaths,Republic of South Sudan,Female,55+ years,Non-communicable diseases,Percent,0.500690404
+Deaths,Republic of South Sudan,Male,55+ years,Non-communicable diseases,Rate,3043.94724
+Deaths,Republic of South Sudan,Female,55+ years,Non-communicable diseases,Rate,2358.384797
+Deaths,Republic of Kenya,Male,<5 years,Non-communicable diseases,Number,2503.481833
+Deaths,Republic of Kenya,Female,<5 years,Non-communicable diseases,Number,2015.789154
+Deaths,Republic of Kenya,Male,<5 years,Non-communicable diseases,Percent,0.105667589
+Deaths,Republic of Kenya,Female,<5 years,Non-communicable diseases,Percent,0.102036622
+Deaths,Republic of Kenya,Male,<5 years,Non-communicable diseases,Rate,82.78446245
+Deaths,Republic of Kenya,Female,<5 years,Non-communicable diseases,Rate,68.89024008
+Deaths,Republic of Kenya,Male,10 - 54 years,Non-communicable diseases,Number,15842.08942
+Deaths,Republic of Kenya,Female,10 - 54 years,Non-communicable diseases,Number,12648.65181
+Deaths,Republic of Kenya,Male,10 - 54 years,Non-communicable diseases,Percent,0.2175416
+Deaths,Republic of Kenya,Female,10 - 54 years,Non-communicable diseases,Percent,0.268851635
+Deaths,Republic of Kenya,Male,10 - 54 years,Non-communicable diseases,Rate,93.73087592
+Deaths,Republic of Kenya,Female,10 - 54 years,Non-communicable diseases,Rate,73.67638236
+Deaths,Republic of Kenya,Male,55+ years,Non-communicable diseases,Number,39754.3157
+Deaths,Republic of Kenya,Female,55+ years,Non-communicable diseases,Number,43583.49197
+Deaths,Republic of Kenya,Male,55+ years,Non-communicable diseases,Percent,0.376266182
+Deaths,Republic of Kenya,Female,55+ years,Non-communicable diseases,Percent,0.51543493
+Deaths,Republic of Kenya,Male,55+ years,Non-communicable diseases,Rate,2272.814947
+Deaths,Republic of Kenya,Female,55+ years,Non-communicable diseases,Rate,2188.310787
+Deaths,Republic of Rwanda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,6617.745639
+Deaths,Republic of Rwanda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,5409.685531
+Deaths,Republic of Rwanda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.799993205
+Deaths,Republic of Rwanda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.789641008
+Deaths,Republic of Rwanda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,744.9096069
+Deaths,Republic of Rwanda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,628.9846202
+Deaths,Republic of Rwanda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,6476.97691
+Deaths,Republic of Rwanda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,6128.142735
+Deaths,Republic of Rwanda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.428700597
+Deaths,Republic of Rwanda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.534003882
+Deaths,Republic of Rwanda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,151.013735
+Deaths,Republic of Rwanda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,135.5574506
+Deaths,Republic of Rwanda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,9149.914509
+Deaths,Republic of Rwanda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,8012.560666
+Deaths,Republic of Rwanda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.375133116
+Deaths,Republic of Rwanda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.32435513
+Deaths,Republic of Rwanda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,2048.226805
+Deaths,Republic of Rwanda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,1311.937843
+Deaths,Republic of Rwanda,Male,<5 years,Nutritional deficiencies,Number,221.6933668
+Deaths,Republic of Rwanda,Female,<5 years,Nutritional deficiencies,Number,200.3550299
+Deaths,Republic of Rwanda,Male,<5 years,Nutritional deficiencies,Percent,0.026790363
+Deaths,Republic of Rwanda,Female,<5 years,Nutritional deficiencies,Percent,0.029233205
+Deaths,Republic of Rwanda,Male,<5 years,Nutritional deficiencies,Rate,24.95434665
+Deaths,Republic of Rwanda,Female,<5 years,Nutritional deficiencies,Rate,23.29529724
+Deaths,Republic of Rwanda,Male,10 - 54 years,Nutritional deficiencies,Number,69.78494366
+Deaths,Republic of Rwanda,Female,10 - 54 years,Nutritional deficiencies,Number,56.90158291
+Deaths,Republic of Rwanda,Male,10 - 54 years,Nutritional deficiencies,Percent,0.004597347
+Deaths,Republic of Rwanda,Female,10 - 54 years,Nutritional deficiencies,Percent,0.004928295
+Deaths,Republic of Rwanda,Male,10 - 54 years,Nutritional deficiencies,Rate,1.627068482
+Deaths,Republic of Rwanda,Female,10 - 54 years,Nutritional deficiencies,Rate,1.258690251
+Deaths,Republic of Rwanda,Male,55+ years,Nutritional deficiencies,Number,116.0456612
+Deaths,Republic of Rwanda,Female,55+ years,Nutritional deficiencies,Number,137.7360937
+Deaths,Republic of Rwanda,Male,55+ years,Nutritional deficiencies,Percent,0.004736169
+Deaths,Republic of Rwanda,Female,55+ years,Nutritional deficiencies,Percent,0.005547892
+Deaths,Republic of Rwanda,Male,55+ years,Nutritional deficiencies,Rate,25.97705516
+Deaths,Republic of Rwanda,Female,55+ years,Nutritional deficiencies,Rate,22.55224032
+Deaths,Republic of Rwanda,Male,<5 years,Protein-energy malnutrition,Number,221.2638555
+Deaths,Republic of Rwanda,Female,<5 years,Protein-energy malnutrition,Number,199.6600596
+Deaths,Republic of Rwanda,Male,<5 years,Protein-energy malnutrition,Percent,0.026738434
+Deaths,Republic of Rwanda,Female,<5 years,Protein-energy malnutrition,Percent,0.029131795
+Deaths,Republic of Rwanda,Male,<5 years,Protein-energy malnutrition,Rate,24.9059998
+Deaths,Republic of Rwanda,Female,<5 years,Protein-energy malnutrition,Rate,23.21449298
+Deaths,Republic of Rwanda,Male,10 - 54 years,Protein-energy malnutrition,Number,66.13210368
+Deaths,Republic of Rwanda,Female,10 - 54 years,Protein-energy malnutrition,Number,50.60103216
+Deaths,Republic of Rwanda,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.004356907
+Deaths,Republic of Rwanda,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.004383249
+Deaths,Republic of Rwanda,Male,10 - 54 years,Protein-energy malnutrition,Rate,1.541900816
+Deaths,Republic of Rwanda,Female,10 - 54 years,Protein-energy malnutrition,Rate,1.119319052
+Deaths,Republic of Rwanda,Male,55+ years,Protein-energy malnutrition,Number,109.7955386
+Deaths,Republic of Rwanda,Female,55+ years,Protein-energy malnutrition,Number,128.9768137
+Deaths,Republic of Rwanda,Male,55+ years,Protein-energy malnutrition,Percent,0.004480936
+Deaths,Republic of Rwanda,Female,55+ years,Protein-energy malnutrition,Percent,0.005195017
+Deaths,Republic of Rwanda,Male,55+ years,Protein-energy malnutrition,Rate,24.57795261
+Deaths,Republic of Rwanda,Female,55+ years,Protein-energy malnutrition,Rate,21.11803827
+Deaths,Republic of Rwanda,Male,<5 years,Non-communicable diseases,Number,1163.361962
+Deaths,Republic of Rwanda,Female,<5 years,Non-communicable diseases,Number,1025.071209
+Deaths,Republic of Rwanda,Male,<5 years,Non-communicable diseases,Percent,0.140766928
+Deaths,Republic of Rwanda,Female,<5 years,Non-communicable diseases,Percent,0.149759033
+Deaths,Republic of Rwanda,Male,<5 years,Non-communicable diseases,Rate,130.9508628
+Deaths,Republic of Rwanda,Female,<5 years,Non-communicable diseases,Rate,119.185121
+Deaths,Republic of Rwanda,Male,10 - 54 years,Non-communicable diseases,Number,4702.64607
+Deaths,Republic of Rwanda,Female,10 - 54 years,Non-communicable diseases,Number,3935.888917
+Deaths,Republic of Rwanda,Male,10 - 54 years,Non-communicable diseases,Percent,0.309361794
+Deaths,Republic of Rwanda,Female,10 - 54 years,Non-communicable diseases,Percent,0.34065208
+Deaths,Republic of Rwanda,Male,10 - 54 years,Non-communicable diseases,Rate,109.6443846
+Deaths,Republic of Rwanda,Female,10 - 54 years,Non-communicable diseases,Rate,87.06374682
+Deaths,Republic of Rwanda,Male,55+ years,Non-communicable diseases,Number,11407.6814
+Deaths,Republic of Rwanda,Female,55+ years,Non-communicable diseases,Number,13989.78232
+Deaths,Republic of Rwanda,Male,55+ years,Non-communicable diseases,Percent,0.465071033
+Deaths,Republic of Rwanda,Female,55+ years,Non-communicable diseases,Percent,0.563021494
+Deaths,Republic of Rwanda,Male,55+ years,Non-communicable diseases,Rate,2553.632474
+Deaths,Republic of Rwanda,Female,55+ years,Non-communicable diseases,Rate,2290.619143
+Deaths,Republic of Kenya,Male,<5 years,Other infectious diseases,Number,1253.410473
+Deaths,Republic of Kenya,Female,<5 years,Other infectious diseases,Number,1128.733683
+Deaths,Republic of Kenya,Male,<5 years,Other infectious diseases,Percent,0.052856642
+Deaths,Republic of Kenya,Female,<5 years,Other infectious diseases,Percent,0.057219516
+Deaths,Republic of Kenya,Male,<5 years,Other infectious diseases,Rate,41.44743967
+Deaths,Republic of Kenya,Female,<5 years,Other infectious diseases,Rate,38.5748352
+Deaths,Republic of Kenya,Male,10 - 54 years,Other infectious diseases,Number,1756.584057
+Deaths,Republic of Kenya,Female,10 - 54 years,Other infectious diseases,Number,1215.557785
+Deaths,Republic of Kenya,Male,10 - 54 years,Other infectious diseases,Percent,0.02412636
+Deaths,Republic of Kenya,Female,10 - 54 years,Other infectious diseases,Percent,0.025831887
+Deaths,Republic of Kenya,Male,10 - 54 years,Other infectious diseases,Rate,10.39295751
+Deaths,Republic of Kenya,Female,10 - 54 years,Other infectious diseases,Rate,7.08043051
+Deaths,Republic of Kenya,Male,55+ years,Other infectious diseases,Number,1081.103364
+Deaths,Republic of Kenya,Female,55+ years,Other infectious diseases,Number,1056.245323
+Deaths,Republic of Kenya,Male,55+ years,Other infectious diseases,Percent,0.010227413
+Deaths,Republic of Kenya,Female,55+ years,Other infectious diseases,Percent,0.012479672
+Deaths,Republic of Kenya,Male,55+ years,Other infectious diseases,Rate,61.80833054
+Deaths,Republic of Kenya,Female,55+ years,Other infectious diseases,Rate,53.03368155
+Deaths,Republic of Kenya,Male,<5 years,Nutritional deficiencies,Number,964.2813152
+Deaths,Republic of Kenya,Female,<5 years,Nutritional deficiencies,Number,851.0626241
+Deaths,Republic of Kenya,Male,<5 years,Nutritional deficiencies,Percent,0.040598701
+Deaths,Republic of Kenya,Female,<5 years,Nutritional deficiencies,Percent,0.043039707
+Deaths,Republic of Kenya,Male,<5 years,Nutritional deficiencies,Rate,31.88659461
+Deaths,Republic of Kenya,Female,<5 years,Nutritional deficiencies,Rate,29.08533781
+Deaths,Republic of Kenya,Male,10 - 54 years,Nutritional deficiencies,Number,276.6086734
+Deaths,Republic of Kenya,Female,10 - 54 years,Nutritional deficiencies,Number,185.0223384
+Deaths,Republic of Kenya,Male,10 - 54 years,Nutritional deficiencies,Percent,0.003797087
+Deaths,Republic of Kenya,Female,10 - 54 years,Nutritional deficiencies,Percent,0.00393032
+Deaths,Republic of Kenya,Male,10 - 54 years,Nutritional deficiencies,Rate,1.636575363
+Deaths,Republic of Kenya,Female,10 - 54 years,Nutritional deficiencies,Rate,1.077725655
+Deaths,Republic of Kenya,Male,55+ years,Nutritional deficiencies,Number,506.6021411
+Deaths,Republic of Kenya,Female,55+ years,Nutritional deficiencies,Number,386.7134341
+Deaths,Republic of Kenya,Male,55+ years,Nutritional deficiencies,Percent,0.004792526
+Deaths,Republic of Kenya,Female,55+ years,Nutritional deficiencies,Percent,0.004566904
+Deaths,Republic of Kenya,Male,55+ years,Nutritional deficiencies,Rate,28.96321816
+Deaths,Republic of Kenya,Female,55+ years,Nutritional deficiencies,Rate,19.41673649
+Deaths,Republic of Kenya,Male,<5 years,Protein-energy malnutrition,Number,962.927237
+Deaths,Republic of Kenya,Female,<5 years,Protein-energy malnutrition,Number,847.9374968
+Deaths,Republic of Kenya,Male,<5 years,Protein-energy malnutrition,Percent,0.040541413
+Deaths,Republic of Kenya,Female,<5 years,Protein-energy malnutrition,Percent,0.042881546
+Deaths,Republic of Kenya,Male,<5 years,Protein-energy malnutrition,Rate,31.84181832
+Deaths,Republic of Kenya,Female,<5 years,Protein-energy malnutrition,Rate,28.97853558
+Deaths,Republic of Kenya,Male,10 - 54 years,Protein-energy malnutrition,Number,270.7467255
+Deaths,Republic of Kenya,Female,10 - 54 years,Protein-energy malnutrition,Number,170.9231648
+Deaths,Republic of Kenya,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.003716754
+Deaths,Republic of Kenya,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.003631193
+Deaths,Republic of Kenya,Male,10 - 54 years,Protein-energy malnutrition,Rate,1.601892721
+Deaths,Republic of Kenya,Female,10 - 54 years,Protein-energy malnutrition,Rate,0.995600213
+Deaths,Republic of Kenya,Male,55+ years,Protein-energy malnutrition,Number,493.4017912
+Deaths,Republic of Kenya,Female,55+ years,Protein-energy malnutrition,Number,370.8395254
+Deaths,Republic of Kenya,Male,55+ years,Protein-energy malnutrition,Percent,0.004667677
+Deaths,Republic of Kenya,Female,55+ years,Protein-energy malnutrition,Percent,0.004379715
+Deaths,Republic of Kenya,Male,55+ years,Protein-energy malnutrition,Rate,28.20853399
+Deaths,Republic of Kenya,Female,55+ years,Protein-energy malnutrition,Rate,18.61971349
+Deaths,Republic of South Sudan,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,21213.13567
+Deaths,Republic of South Sudan,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,17055.37388
+Deaths,Republic of South Sudan,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.806742704
+Deaths,Republic of South Sudan,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.794621981
+Deaths,Republic of South Sudan,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,2627.666328
+Deaths,Republic of South Sudan,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,2258.886655
+Deaths,Republic of South Sudan,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,7655.700086
+Deaths,Republic of South Sudan,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,7301.259702
+Deaths,Republic of South Sudan,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.46466884
+Deaths,Republic of South Sudan,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.607985755
+Deaths,Republic of South Sudan,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,255.4732921
+Deaths,Republic of South Sudan,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,234.0172873
+Deaths,Republic of South Sudan,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,9357.893573
+Deaths,Republic of South Sudan,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,5479.034858
+Deaths,Republic of South Sudan,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.414720977
+Deaths,Republic of South Sudan,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.401530344
+Deaths,Republic of South Sudan,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,2818.114634
+Deaths,Republic of South Sudan,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,1885.030501
+Deaths,Republic of Rwanda,Male,<5 years,Other infectious diseases,Number,393.9355727
+Deaths,Republic of Rwanda,Female,<5 years,Other infectious diseases,Number,292.5639952
+Deaths,Republic of Rwanda,Male,<5 years,Other infectious diseases,Percent,0.047570775
+Deaths,Republic of Rwanda,Female,<5 years,Other infectious diseases,Percent,0.042702109
+Deaths,Republic of Rwanda,Male,<5 years,Other infectious diseases,Rate,44.34234989
+Deaths,Republic of Rwanda,Female,<5 years,Other infectious diseases,Rate,34.01644187
+Deaths,Republic of South Sudan,Male,<5 years,Other infectious diseases,Number,1328.242802
+Deaths,Republic of South Sudan,Female,<5 years,Other infectious diseases,Number,1109.326453
+Deaths,Republic of South Sudan,Male,<5 years,Other infectious diseases,Percent,0.050616913
+Deaths,Republic of South Sudan,Female,<5 years,Other infectious diseases,Percent,0.051663965
+Deaths,Republic of South Sudan,Male,<5 years,Other infectious diseases,Rate,164.5291362
+Deaths,Republic of South Sudan,Female,<5 years,Other infectious diseases,Rate,146.9239395
+Deaths,Republic of South Sudan,Male,10 - 54 years,Other infectious diseases,Number,492.0861348
+Deaths,Republic of South Sudan,Female,10 - 54 years,Other infectious diseases,Number,369.1849157
+Deaths,Republic of South Sudan,Male,10 - 54 years,Other infectious diseases,Percent,0.029806842
+Deaths,Republic of South Sudan,Female,10 - 54 years,Other infectious diseases,Percent,0.030720168
+Deaths,Republic of South Sudan,Male,10 - 54 years,Other infectious diseases,Rate,16.42108017
+Deaths,Republic of South Sudan,Female,10 - 54 years,Other infectious diseases,Rate,11.83297897
+Deaths,Republic of South Sudan,Male,55+ years,Other infectious diseases,Number,295.2672232
+Deaths,Republic of South Sudan,Female,55+ years,Other infectious diseases,Number,193.8863669
+Deaths,Republic of South Sudan,Male,55+ years,Other infectious diseases,Percent,0.013021556
+Deaths,Republic of South Sudan,Female,55+ years,Other infectious diseases,Percent,0.014149132
+Deaths,Republic of South Sudan,Male,55+ years,Other infectious diseases,Rate,88.91925049
+Deaths,Republic of South Sudan,Female,55+ years,Other infectious diseases,Rate,66.7054919
+Deaths,Republic of South Sudan,Male,<5 years,Measles,Number,15.67434106
+Deaths,Republic of South Sudan,Female,<5 years,Measles,Number,10.26944278
+Deaths,Republic of South Sudan,Male,<5 years,Measles,Percent,0.000596761
+Deaths,Republic of South Sudan,Female,<5 years,Measles,Percent,0.000472954
+Deaths,Republic of South Sudan,Male,<5 years,Measles,Rate,1.94157709
+Deaths,Republic of South Sudan,Female,<5 years,Measles,Rate,1.360128919
+Deaths,Republic of South Sudan,Male,10 - 54 years,Measles,Number,10.98613282
+Deaths,Republic of South Sudan,Female,10 - 54 years,Measles,Number,3.414614025
+Deaths,Republic of South Sudan,Male,10 - 54 years,Measles,Percent,0.00066283
+Deaths,Republic of South Sudan,Female,10 - 54 years,Measles,Percent,0.000284452
+Deaths,Republic of South Sudan,Male,10 - 54 years,Measles,Rate,0.366610955
+Deaths,Republic of South Sudan,Female,10 - 54 years,Measles,Rate,0.109443951
+Deaths,Republic of South Sudan,Male,55+ years,Measles,Number,0.062710577
+Deaths,Republic of South Sudan,Female,55+ years,Measles,Number,0.042815793
+Deaths,Republic of South Sudan,Male,55+ years,Measles,Percent,2.74e-06
+Deaths,Republic of South Sudan,Female,55+ years,Measles,Percent,3.1e-06
+Deaths,Republic of South Sudan,Male,55+ years,Measles,Rate,0.01888519
+Deaths,Republic of South Sudan,Female,55+ years,Measles,Rate,0.014730528
+Deaths,Republic of South Sudan,Male,<5 years,Neglected tropical diseases and malaria,Number,2868.615819
+Deaths,Republic of South Sudan,Female,<5 years,Neglected tropical diseases and malaria,Number,2980.053371
+Deaths,Republic of South Sudan,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.109241527
+Deaths,Republic of South Sudan,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.138819259
+Deaths,Republic of South Sudan,Male,<5 years,Neglected tropical diseases and malaria,Rate,355.3347943
+Deaths,Republic of South Sudan,Female,<5 years,Neglected tropical diseases and malaria,Rate,394.6910128
+Deaths,Republic of South Sudan,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,1040.314398
+Deaths,Republic of South Sudan,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,520.6031538
+Deaths,Republic of South Sudan,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.063090902
+Deaths,Republic of South Sudan,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.043363721
+Deaths,Republic of South Sudan,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,34.71564208
+Deaths,Republic of South Sudan,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,16.68618058
+Deaths,Republic of South Sudan,Male,55+ years,Neglected tropical diseases and malaria,Number,439.9071762
+Deaths,Republic of South Sudan,Female,55+ years,Neglected tropical diseases and malaria,Number,281.4446062
+Deaths,Republic of South Sudan,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.019395974
+Deaths,Republic of South Sudan,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.020559305
+Deaths,Republic of South Sudan,Male,55+ years,Neglected tropical diseases and malaria,Rate,132.4773402
+Deaths,Republic of South Sudan,Female,55+ years,Neglected tropical diseases and malaria,Rate,96.82940168
+Deaths,Republic of South Sudan,Male,<5 years,Nutritional deficiencies,Number,1205.152277
+Deaths,Republic of South Sudan,Female,<5 years,Nutritional deficiencies,Number,1188.458245
+Deaths,Republic of South Sudan,Male,<5 years,Nutritional deficiencies,Percent,0.045773102
+Deaths,Republic of South Sudan,Female,<5 years,Nutritional deficiencies,Percent,0.055435618
+Deaths,Republic of South Sudan,Male,<5 years,Nutritional deficiencies,Rate,149.2819406
+Deaths,Republic of South Sudan,Female,<5 years,Nutritional deficiencies,Rate,157.4044925
+Deaths,Republic of South Sudan,Male,10 - 54 years,Nutritional deficiencies,Number,137.7390567
+Deaths,Republic of South Sudan,Female,10 - 54 years,Nutritional deficiencies,Number,127.1395998
+Deaths,Republic of South Sudan,Male,10 - 54 years,Nutritional deficiencies,Percent,0.008352521
+Deaths,Republic of South Sudan,Female,10 - 54 years,Nutritional deficiencies,Percent,0.010600434
+Deaths,Republic of South Sudan,Male,10 - 54 years,Nutritional deficiencies,Rate,4.596398746
+Deaths,Republic of South Sudan,Female,10 - 54 years,Nutritional deficiencies,Rate,4.075031635
+Deaths,Republic of South Sudan,Male,55+ years,Nutritional deficiencies,Number,222.6397579
+Deaths,Republic of South Sudan,Female,55+ years,Nutritional deficiencies,Number,156.659949
+Deaths,Republic of South Sudan,Male,55+ years,Nutritional deficiencies,Percent,0.009829838
+Deaths,Republic of South Sudan,Female,55+ years,Nutritional deficiencies,Percent,0.011461868
+Deaths,Republic of South Sudan,Male,55+ years,Nutritional deficiencies,Rate,67.04760585
+Deaths,Republic of South Sudan,Female,55+ years,Nutritional deficiencies,Rate,53.89795643
+Deaths,Republic of South Sudan,Male,<5 years,Protein-energy malnutrition,Number,1203.23427
+Deaths,Republic of South Sudan,Female,<5 years,Protein-energy malnutrition,Number,1184.508977
+Deaths,Republic of South Sudan,Male,<5 years,Protein-energy malnutrition,Percent,0.045700296
+Deaths,Republic of South Sudan,Female,<5 years,Protein-energy malnutrition,Percent,0.055251944
+Deaths,Republic of South Sudan,Male,<5 years,Protein-energy malnutrition,Rate,149.0443575
+Deaths,Republic of South Sudan,Female,<5 years,Protein-energy malnutrition,Rate,156.8814345
+Deaths,Republic of South Sudan,Male,10 - 54 years,Protein-energy malnutrition,Number,131.4671492
+Deaths,Republic of South Sudan,Female,10 - 54 years,Protein-energy malnutrition,Number,113.6105188
+Deaths,Republic of South Sudan,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.007971306
+Deaths,Republic of South Sudan,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.00947484
+Deaths,Republic of South Sudan,Male,10 - 54 years,Protein-energy malnutrition,Rate,4.387103079
+Deaths,Republic of South Sudan,Female,10 - 54 years,Protein-energy malnutrition,Rate,3.641402511
+Deaths,Republic of South Sudan,Male,55+ years,Protein-energy malnutrition,Number,211.6929613
+Deaths,Republic of South Sudan,Female,55+ years,Protein-energy malnutrition,Number,147.3965689
+Deaths,Republic of South Sudan,Male,55+ years,Protein-energy malnutrition,Percent,0.009345089
+Deaths,Republic of South Sudan,Female,55+ years,Protein-energy malnutrition,Percent,0.010784536
+Deaths,Republic of South Sudan,Male,55+ years,Protein-energy malnutrition,Rate,63.75099561
+Deaths,Republic of South Sudan,Female,55+ years,Protein-energy malnutrition,Rate,50.71094367
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Non-communicable diseases,Number,120732.6938
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Non-communicable diseases,Number,108450.4478
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Non-communicable diseases,Percent,0.156986538
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Non-communicable diseases,Percent,0.168999765
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Non-communicable diseases,Rate,13589.96679
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Non-communicable diseases,Rate,12609.54325
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Non-communicable diseases,Number,502919.9611
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Non-communicable diseases,Number,571054.5525
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Non-communicable diseases,Percent,0.430044963
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Non-communicable diseases,Percent,0.510374565
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Non-communicable diseases,Rate,11725.81326
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Non-communicable diseases,Rate,12632.00004
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Non-communicable diseases,Number,322753.7808
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Non-communicable diseases,Number,394113.1294
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Non-communicable diseases,Percent,0.508269699
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Non-communicable diseases,Percent,0.616228864
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Non-communicable diseases,Rate,72249.08436
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Non-communicable diseases,Rate,64530.17338
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Measles,Number,33058.94096
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Measles,Number,29510.45413
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Measles,Percent,0.01479922
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Measles,Percent,0.015835267
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Measles,Rate,1093.184149
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Measles,Rate,1008.529223
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Measles,Number,1440.158745
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Measles,Number,1742.412301
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Measles,Percent,0.000279024
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Measles,Percent,0.000400077
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Measles,Rate,8.520804111
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Measles,Rate,10.14927416
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Measles,Number,10.30576365
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Measles,Number,8.616683448
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Measles,Percent,3.78e-06
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Measles,Percent,3.99e-06
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Measles,Rate,0.589196248
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Measles,Rate,0.432640444
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Neglected tropical diseases and malaria,Number,204665.0505
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Neglected tropical diseases and malaria,Number,221488.7301
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.091360211
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.118364972
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Neglected tropical diseases and malaria,Rate,6767.808721
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Neglected tropical diseases and malaria,Rate,7569.448304
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,128617.5667
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,104651.0032
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.024879709
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.02396166
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,760.9752016
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,609.5754267
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Neglected tropical diseases and malaria,Number,22607.11888
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Neglected tropical diseases and malaria,Number,24335.76337
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.008307025
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.011302411
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Neglected tropical diseases and malaria,Rate,1292.483515
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Neglected tropical diseases and malaria,Rate,1221.889552
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Nutritional deficiencies,Number,25854.62962
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Nutritional deficiencies,Number,23760.45157
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Nutritional deficiencies,Percent,0.033619242
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Nutritional deficiencies,Percent,0.037008145
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Nutritional deficiencies,Rate,2910.260237
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Nutritional deficiencies,Rate,2762.629828
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Nutritional deficiencies,Number,10670.62492
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Nutritional deficiencies,Number,19562.57627
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Nutritional deficiencies,Percent,0.009118157
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Nutritional deficiencies,Percent,0.017464713
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Nutritional deficiencies,Rate,248.7905926
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Nutritional deficiencies,Rate,432.733551
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Nutritional deficiencies,Number,3467.127313
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Nutritional deficiencies,Number,4968.955204
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Nutritional deficiencies,Percent,0.005463686
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Nutritional deficiencies,Percent,0.007780023
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Nutritional deficiencies,Rate,776.123437
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Nutritional deficiencies,Rate,813.5926386
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Protein-energy malnutrition,Number,19691.69284
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Protein-energy malnutrition,Number,17687.36173
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Protein-energy malnutrition,Percent,0.025538568
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Protein-energy malnutrition,Percent,0.027505837
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Protein-energy malnutrition,Rate,2216.545025
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Protein-energy malnutrition,Rate,2056.511129
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Protein-energy malnutrition,Number,3703.482538
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Protein-energy malnutrition,Number,2994.839405
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.003169096
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.002681924
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Protein-energy malnutrition,Rate,86.34842123
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Protein-energy malnutrition,Rate,66.24728116
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Protein-energy malnutrition,Number,2211.805524
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Protein-energy malnutrition,Number,2269.708763
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Protein-energy malnutrition,Percent,0.003482022
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Protein-energy malnutrition,Percent,0.003547751
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Protein-energy malnutrition,Rate,495.1171246
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Protein-energy malnutrition,Rate,371.6311106
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Nutritional deficiencies,Number,128512.2789
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Nutritional deficiencies,Number,119583.8288
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Nutritional deficiencies,Percent,0.053767223
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Nutritional deficiencies,Percent,0.061419712
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Nutritional deficiencies,Rate,15918.78699
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Nutritional deficiencies,Rate,15838.19369
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Nutritional deficiencies,Number,15366.99937
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Nutritional deficiencies,Number,24163.8953
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Nutritional deficiencies,Percent,0.013270132
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Nutritional deficiencies,Percent,0.023606043
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Nutritional deficiencies,Rate,512.8019483
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Nutritional deficiencies,Rate,774.492274
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Nutritional deficiencies,Number,5872.929282
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Nutritional deficiencies,Number,4825.779233
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Nutritional deficiencies,Percent,0.010182804
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Nutritional deficiencies,Percent,0.013202095
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Nutritional deficiencies,Rate,1768.62323
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Nutritional deficiencies,Rate,1660.281652
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Protein-energy malnutrition,Number,116023.0487
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Protein-energy malnutrition,Number,111023.2012
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Protein-energy malnutrition,Percent,0.048472922
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Protein-energy malnutrition,Percent,0.056995332
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Protein-energy malnutrition,Rate,14371.74886
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Protein-energy malnutrition,Rate,14704.38756
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Protein-energy malnutrition,Number,8201.232541
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Protein-energy malnutrition,Number,7550.281047
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.007080152
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.007372837
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Protein-energy malnutrition,Rate,273.677894
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Protein-energy malnutrition,Rate,241.9988278
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Protein-energy malnutrition,Number,4630.20674
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Protein-energy malnutrition,Number,3019.946889
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Protein-energy malnutrition,Percent,0.008016905
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Protein-energy malnutrition,Percent,0.008247328
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Protein-energy malnutrition,Rate,1394.37933
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Protein-energy malnutrition,Rate,1038.995397
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Nutritional deficiencies,Number,54529.46551
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Nutritional deficiencies,Number,44908.97563
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Nutritional deficiencies,Percent,0.03673109
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Nutritional deficiencies,Percent,0.036461326
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Nutritional deficiencies,Rate,5022.005232
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Nutritional deficiencies,Rate,4179.22696
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Nutritional deficiencies,Number,14323.59709
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Nutritional deficiencies,Number,28241.48027
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Nutritional deficiencies,Percent,0.011668663
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Nutritional deficiencies,Percent,0.026930089
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Nutritional deficiencies,Rate,346.029101
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Nutritional deficiencies,Rate,678.6910628
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Nutritional deficiencies,Number,5482.163311
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Nutritional deficiencies,Number,4849.696918
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Nutritional deficiencies,Percent,0.009112407
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Nutritional deficiencies,Percent,0.011745996
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Nutritional deficiencies,Rate,1296.772022
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Nutritional deficiencies,Rate,1283.757242
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Protein-energy malnutrition,Number,38742.77848
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Protein-energy malnutrition,Number,32890.55472
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Protein-energy malnutrition,Percent,0.02603905
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Protein-energy malnutrition,Percent,0.026644915
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Protein-energy malnutrition,Rate,3568.097255
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Protein-energy malnutrition,Rate,3060.793329
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Protein-energy malnutrition,Number,7429.001794
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Protein-energy malnutrition,Number,6217.858238
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.006052835
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.005959452
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Protein-energy malnutrition,Rate,179.46964
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Protein-energy malnutrition,Rate,149.4257658
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Protein-energy malnutrition,Number,4160.517722
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Protein-energy malnutrition,Number,2692.714365
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Protein-energy malnutrition,Percent,0.006910857
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Protein-energy malnutrition,Percent,0.006516211
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Protein-energy malnutrition,Rate,984.1448847
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Protein-energy malnutrition,Rate,712.7850721
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,1927656.526
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,1547090.26
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.805443785
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.793000124
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,238778.3789
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,204903.2502
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,489728.4065
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,515481.6832
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.422936432
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.502912054
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,16342.40198
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,16522.02909
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,224054.2856
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,134474.4755
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.389538864
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.368031671
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,67473.58859
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,46265.1716
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,606132.8829
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,497119.8511
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.786527069
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.77346233
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,68227.79723
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,57800.16952
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,395132.2839
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,415166.5371
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.338986591
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.372464323
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,9212.693336
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,9183.682527
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,213421.7445
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,177713.6614
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.337536116
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.279008643
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,47774.88766
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,29097.97347
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Other infectious diseases,Number,35570.83784
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Other infectious diseases,Number,26563.06623
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Other infectious diseases,Percent,0.046107845
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Other infectious diseases,Percent,0.041322839
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Other infectious diseases,Rate,4003.940356
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Other infectious diseases,Rate,3088.490085
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Other infectious diseases,Number,22353.43579
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Other infectious diseases,Number,16971.54949
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Other infectious diseases,Percent,0.019118007
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Other infectious diseases,Percent,0.015177837
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Other infectious diseases,Rate,521.1807724
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Other infectious diseases,Rate,375.4187983
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Other infectious diseases,Number,5064.318283
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Other infectious diseases,Number,5336.442693
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Other infectious diseases,Percent,0.007972193
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Other infectious diseases,Percent,0.008334232
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Other infectious diseases,Rate,1133.657855
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Other infectious diseases,Rate,873.7632586
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Measles,Number,3858.279075
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Measles,Number,2907.437297
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Measles,Percent,0.0049878
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Measles,Percent,0.004508479
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Measles,Rate,434.297313
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Measles,Rate,338.0479944
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Measles,Number,131.8789469
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Measles,Number,101.55491
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Measles,Percent,0.000112863
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Measles,Percent,9.1e-05
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Measles,Rate,3.074819103
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Measles,Rate,2.24644322
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Measles,Number,1.154531278
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Measles,Number,0.900445892
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Measles,Percent,1.81e-06
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Measles,Percent,1.4e-06
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Measles,Rate,0.258444154
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Measles,Rate,0.147434645
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Neglected tropical diseases and malaria,Number,82060.25756
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Neglected tropical diseases and malaria,Number,81650.40724
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.106506736
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.127116787
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,<5 years,Neglected tropical diseases and malaria,Rate,9236.902949
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,<5 years,Neglected tropical diseases and malaria,Rate,9493.500148
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,37057.12051
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,29796.7356
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.031683971
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.026642343
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,864.0040337
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,659.1180542
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Neglected tropical diseases and malaria,Number,8486.500809
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Neglected tropical diseases and malaria,Number,8878.44075
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.013358169
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.013869457
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Male,55+ years,Neglected tropical diseases and malaria,Rate,1899.720311
+DALYs (Disability-Adjusted Life Years),Republic of Rwanda,Female,55+ years,Neglected tropical diseases and malaria,Rate,1453.712851
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Measles,Number,14104.99364
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Measles,Number,11620.51811
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Measles,Percent,0.009446735
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Measles,Percent,0.009370646
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Measles,Rate,1299.028904
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Measles,Rate,1081.404817
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Measles,Number,745.7387959
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Measles,Number,1028.15207
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Measles,Percent,0.000608947
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Measles,Percent,0.000987051
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Measles,Rate,18.01553922
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Measles,Rate,24.70825235
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Measles,Number,5.461656226
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Measles,Number,3.171183774
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Measles,Percent,9.06e-06
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Measles,Percent,7.66e-06
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Measles,Rate,1.291921197
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Measles,Rate,0.839440115
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Neglected tropical diseases and malaria,Number,484574.9818
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Neglected tropical diseases and malaria,Number,428079.1161
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.3221086
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.34259222
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Neglected tropical diseases and malaria,Rate,44627.94695
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Neglected tropical diseases and malaria,Rate,39837.02051
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,92436.18649
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,72845.51072
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.075093644
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.06948021
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,2233.071087
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,1750.602186
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Neglected tropical diseases and malaria,Number,20932.2377
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Neglected tropical diseases and malaria,Number,17729.01347
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.034713093
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.042795881
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Neglected tropical diseases and malaria,Rate,4951.392119
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Neglected tropical diseases and malaria,Rate,4693.025115
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Other infectious diseases,Number,119229.2948
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Other infectious diseases,Number,99461.52209
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Other infectious diseases,Percent,0.049910242
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Other infectious diseases,Percent,0.050959353
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Other infectious diseases,Rate,14768.90584
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Other infectious diseases,Rate,13173.10934
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Other infectious diseases,Number,30746.53005
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Other infectious diseases,Number,25286.20605
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Other infectious diseases,Percent,0.026505793
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Other infectious diseases,Percent,0.024667628
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Other infectious diseases,Rate,1026.02207
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Other infectious diseases,Rate,810.4641647
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Other infectious diseases,Number,7145.961007
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Other infectious diseases,Number,4757.245634
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Other infectious diseases,Percent,0.012362626
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Other infectious diseases,Percent,0.012971722
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Other infectious diseases,Rate,2151.994691
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Other infectious diseases,Rate,1636.703061
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,1299270.765
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,1082349.452
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.86962322
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.872058155
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,119659.0599
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,100723.3842
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,469562.899
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,443597.6297
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.383008182
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.424532909
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,11343.6888
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,10660.40958
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,217423.2451
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,131998.3301
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.362241477
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.319942748
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,51430.13173
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,34941.11386
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Non-communicable diseases,Number,478931.8916
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Non-communicable diseases,Number,496345.9816
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Non-communicable diseases,Percent,0.390123203
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Non-communicable diseases,Percent,0.473839059
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Non-communicable diseases,Rate,11570.02469
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Non-communicable diseases,Rate,11928.04267
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Non-communicable diseases,Number,307548.8915
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Non-communicable diseases,Number,248071.9807
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Non-communicable diseases,Percent,0.51124191
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Non-communicable diseases,Percent,0.600319684
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Non-communicable diseases,Rate,72748.79922
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Non-communicable diseases,Rate,65666.82562
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Non-communicable diseases,Number,804896.2644
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Non-communicable diseases,Number,782974.0853
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Non-communicable diseases,Percent,0.164323065
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Non-communicable diseases,Percent,0.184488768
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Non-communicable diseases,Rate,18035.14616
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Non-communicable diseases,Rate,17862.94035
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Non-communicable diseases,Number,2045858.333
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Non-communicable diseases,Number,2378952.661
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Non-communicable diseases,Percent,0.400331352
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Non-communicable diseases,Percent,0.449027283
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Non-communicable diseases,Rate,11455.72058
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Non-communicable diseases,Rate,12229.05623
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Non-communicable diseases,Number,1408147.456
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Non-communicable diseases,Number,1384357.407
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Non-communicable diseases,Percent,0.499899481
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Non-communicable diseases,Percent,0.597741505
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Non-communicable diseases,Rate,70419.1993
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Non-communicable diseases,Rate,65222.43587
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Non-communicable diseases,Number,152049.4795
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Non-communicable diseases,Number,127455.5892
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Non-communicable diseases,Percent,0.101959868
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Non-communicable diseases,Percent,0.10315523
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Non-communicable diseases,Rate,14003.31499
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Non-communicable diseases,Rate,11861.01057
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Non-communicable diseases,Number,234089.1997
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Non-communicable diseases,Number,201851.6987
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Non-communicable diseases,Percent,0.097896068
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Non-communicable diseases,Percent,0.103657622
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Non-communicable diseases,Rate,28996.57634
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Non-communicable diseases,Rate,26734.1022
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Non-communicable diseases,Number,382945.6937
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Non-communicable diseases,Number,404237.5624
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Non-communicable diseases,Percent,0.330872686
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Non-communicable diseases,Percent,0.394802057
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Non-communicable diseases,Rate,12779.02687
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Non-communicable diseases,Rate,12956.47349
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Non-communicable diseases,Number,276437.8655
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Non-communicable diseases,Number,200324.0662
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Non-communicable diseases,Percent,0.478812367
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Non-communicable diseases,Percent,0.547218702
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Non-communicable diseases,Rate,83248.81962
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Non-communicable diseases,Rate,68920.3454
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Other infectious diseases,Number,277716.3366
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Other infectious diseases,Number,261219.8894
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Other infectious diseases,Percent,0.056386373
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Other infectious diseases,Percent,0.061171448
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Other infectious diseases,Rate,6222.733218
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Other infectious diseases,Rate,5959.527128
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Other infectious diseases,Number,74983.35286
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Other infectious diseases,Number,74786.38357
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Other infectious diseases,Percent,0.014686972
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Other infectious diseases,Percent,0.014121475
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Other infectious diseases,Rate,419.8669697
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Other infectious diseases,Rate,384.4409789
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Other infectious diseases,Number,18881.70656
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Other infectious diseases,Number,18274.99155
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Other infectious diseases,Percent,0.006699
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Other infectious diseases,Percent,0.007881985
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Other infectious diseases,Rate,944.2439086
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Other infectious diseases,Rate,861.0055889
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Nutritional deficiencies,Number,177232.8187
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Nutritional deficiencies,Number,178356.5987
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Nutritional deficiencies,Percent,0.036265042
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Nutritional deficiencies,Percent,0.042002903
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Nutritional deficiencies,Rate,3971.219561
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Nutritional deficiencies,Rate,4069.066069
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Nutritional deficiencies,Number,52885.48109
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Nutritional deficiencies,Number,161649.3697
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Nutritional deficiencies,Percent,0.010321171
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Nutritional deficiencies,Percent,0.03044238
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Nutritional deficiencies,Rate,296.1306188
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Nutritional deficiencies,Rate,830.9619875
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Nutritional deficiencies,Number,13617.80209
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Nutritional deficiencies,Number,25124.79846
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Nutritional deficiencies,Percent,0.004835032
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Nutritional deficiencies,Percent,0.010863529
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Nutritional deficiencies,Rate,681.0044752
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Nutritional deficiencies,Rate,1183.726506
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Protein-energy malnutrition,Number,120692.3629
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Protein-energy malnutrition,Number,128146.3209
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Protein-energy malnutrition,Percent,0.024591077
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Protein-energy malnutrition,Percent,0.030103794
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Protein-energy malnutrition,Rate,2704.329117
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Protein-energy malnutrition,Rate,2923.557918
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Protein-energy malnutrition,Number,13616.04473
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Protein-energy malnutrition,Number,12182.47485
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.002666158
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.002304491
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Protein-energy malnutrition,Rate,76.24262217
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Protein-energy malnutrition,Rate,62.62426839
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Protein-energy malnutrition,Number,8440.835555
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Protein-energy malnutrition,Number,8281.443512
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Protein-energy malnutrition,Percent,0.002995127
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Protein-energy malnutrition,Percent,0.00357761
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Protein-energy malnutrition,Rate,422.1126692
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Protein-energy malnutrition,Rate,390.1708588
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,3902118.455
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,3271968.27
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.794369746
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.769794305
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,87433.97103
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,74647.39272
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,2188429.291
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,2532041.514
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.429284739
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.479486647
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,12254.04226
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,13016.0127
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,1025843.038
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,717413.4687
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.36553159
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.310792899
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,51300.76755
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,33800.1254
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Other infectious diseases,Number,55521.09275
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Other infectious diseases,Number,43424.99075
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Other infectious diseases,Percent,0.03728868
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Other infectious diseases,Percent,0.03514094
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,<5 years,Other infectious diseases,Rate,5113.331218
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,<5 years,Other infectious diseases,Rate,4041.127404
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Other infectious diseases,Number,28030.3191
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Other infectious diseases,Number,21152.66292
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Other infectious diseases,Percent,0.022850158
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Other infectious diseases,Percent,0.020253113
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,10 - 54 years,Other infectious diseases,Rate,677.1557495
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,10 - 54 years,Other infectious diseases,Rate,508.3346602
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Other infectious diseases,Number,5958.101813
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Other infectious diseases,Number,3717.320519
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Other infectious diseases,Percent,0.009891147
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Other infectious diseases,Percent,0.008993632
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Male,55+ years,Other infectious diseases,Rate,1409.352348
+DALYs (Disability-Adjusted Life Years),Republic of Burundi,Female,55+ years,Other infectious diseases,Rate,984.0072934
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Nutritional deficiencies,Number,138926.5227
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Nutritional deficiencies,Number,123459.4399
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Nutritional deficiencies,Percent,0.027342514
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Nutritional deficiencies,Percent,0.030079896
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Nutritional deficiencies,Rate,3722.132032
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Nutritional deficiencies,Rate,3443.515303
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Measles,Number,1393.883092
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Measles,Number,916.3189576
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Measles,Percent,0.000582625
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Measles,Percent,0.000464456
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Measles,Rate,172.6599841
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Measles,Rate,121.3612014
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Measles,Number,773.4247228
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Measles,Number,218.3110467
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Measles,Percent,0.000664365
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Measles,Percent,0.000212773
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Measles,Rate,25.80944367
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Measles,Rate,6.997225277
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Measles,Number,2.03018035
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Measles,Number,1.40688461
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Measles,Percent,3.49e-06
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Measles,Percent,3.8e-06
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Measles,Rate,0.611385555
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Measles,Rate,0.484030576
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Neglected tropical diseases and malaria,Number,259269.1594
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Neglected tropical diseases and malaria,Number,268369.3521
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.108475266
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.137530617
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,<5 years,Neglected tropical diseases and malaria,Rate,32115.61228
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,<5 years,Neglected tropical diseases and malaria,Rate,35543.98468
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,107555.4196
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,76153.59984
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.092884395
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.074333381
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,3589.160603
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,2440.847139
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Neglected tropical diseases and malaria,Number,22498.53157
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Neglected tropical diseases and malaria,Number,18350.34447
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.039076927
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.050229596
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Male,55+ years,Neglected tropical diseases and malaria,Rate,6775.39668
+DALYs (Disability-Adjusted Life Years),Republic of South Sudan,Female,55+ years,Neglected tropical diseases and malaria,Rate,6313.330711
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Nutritional deficiencies,Number,34400.3475
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Nutritional deficiencies,Number,57123.60191
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Nutritional deficiencies,Percent,0.008255122
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Nutritional deficiencies,Percent,0.0153375
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Nutritional deficiencies,Rate,260.543268
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Nutritional deficiencies,Rate,413.1193105
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Nutritional deficiencies,Number,8380.188065
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Nutritional deficiencies,Number,11458.29029
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Nutritional deficiencies,Percent,0.004856201
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Nutritional deficiencies,Percent,0.007908174
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Nutritional deficiencies,Rate,805.8386035
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Nutritional deficiencies,Rate,860.5172439
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Protein-energy malnutrition,Number,105009.4485
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Protein-energy malnutrition,Number,91472.14513
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Protein-energy malnutrition,Percent,0.020663023
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Protein-energy malnutrition,Percent,0.022278236
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Protein-energy malnutrition,Rate,2813.422696
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Protein-energy malnutrition,Rate,2551.329666
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Protein-energy malnutrition,Number,12415.7344
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Protein-energy malnutrition,Number,8338.094998
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.00298464
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.002243787
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Protein-energy malnutrition,Rate,94.03498073
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Protein-energy malnutrition,Rate,60.30131051
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Protein-energy malnutrition,Number,5447.552258
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Protein-energy malnutrition,Number,4647.499393
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Protein-energy malnutrition,Percent,0.00315407
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Protein-energy malnutrition,Percent,0.003206056
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Protein-energy malnutrition,Rate,523.8364426
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Protein-energy malnutrition,Rate,349.0270596
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Measles,Number,92987.1635
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Measles,Number,86945.25386
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Measles,Percent,0.01887536
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Measles,Percent,0.020321144
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Measles,Rate,2083.544375
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Measles,Rate,1983.587851
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Measles,Number,3279.846731
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Measles,Number,4011.325614
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Measles,Percent,0.000643711
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Measles,Percent,0.000759919
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Measles,Rate,18.36540052
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Measles,Rate,20.62030375
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Measles,Number,20.28975449
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Measles,Number,15.36446458
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Measles,Percent,7.19e-06
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Measles,Percent,6.62e-06
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Measles,Rate,1.01465813
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Measles,Rate,0.723879398
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Neglected tropical diseases and malaria,Number,534449.0796
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Neglected tropical diseases and malaria,Number,537097.7512
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.109295193
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.126447467
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,<5 years,Neglected tropical diseases and malaria,Rate,11975.29134
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,<5 years,Neglected tropical diseases and malaria,Rate,12253.46441
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,140564.807
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,138190.9268
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.027513502
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.02609635
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,787.0882977
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,710.3733678
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Neglected tropical diseases and malaria,Number,27906.11323
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Neglected tropical diseases and malaria,Number,28361.11119
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.009908102
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.012249158
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Male,55+ years,Neglected tropical diseases and malaria,Rate,1395.540034
+DALYs (Disability-Adjusted Life Years),United Republic of Tanzania,Female,55+ years,Neglected tropical diseases and malaria,Rate,1336.201726
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,4368641.35
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,3508422.558
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.848924556
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.842266092
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,117045.0364
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,97856.48451
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Non-communicable diseases,Number,558425.3868
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Non-communicable diseases,Number,477814.8592
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Non-communicable diseases,Percent,0.108831436
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Non-communicable diseases,Percent,0.115451723
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Non-communicable diseases,Rate,14961.38375
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Non-communicable diseases,Rate,13327.15247
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Non-communicable diseases,Number,1539715.542
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Non-communicable diseases,Number,1603762.274
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Non-communicable diseases,Percent,0.369766453
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Non-communicable diseases,Percent,0.431043596
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Non-communicable diseases,Rate,11661.58333
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Non-communicable diseases,Rate,11598.44867
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Non-communicable diseases,Number,815284.1548
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Non-communicable diseases,Number,802526.7173
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Non-communicable diseases,Percent,0.472067316
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Non-communicable diseases,Percent,0.553643342
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Non-communicable diseases,Rate,78397.697
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Non-communicable diseases,Rate,60269.73145
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Other infectious diseases,Number,243599.244
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Other infectious diseases,Number,180707.8674
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Other infectious diseases,Percent,0.04793219
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Other infectious diseases,Percent,0.044086225
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Other infectious diseases,Rate,6526.533101
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Other infectious diseases,Rate,5040.281303
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Other infectious diseases,Number,79279.34724
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Other infectious diseases,Number,48156.8501
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Other infectious diseases,Percent,0.01905918
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Other infectious diseases,Percent,0.012949837
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Other infectious diseases,Rate,600.4503361
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Other infectious diseases,Rate,348.2715383
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Other infectious diseases,Number,13601.35874
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Other infectious diseases,Number,10395.12802
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Other infectious diseases,Percent,0.007868155
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Other infectious diseases,Percent,0.007161145
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Other infectious diseases,Rate,1307.9062
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Other infectious diseases,Rate,780.67379
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,1901918.352
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,1587195.826
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.850685558
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.850153068
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,62892.1234
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,54242.9258
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,2473146.005
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,2013211.604
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.479119886
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.461873462
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,14632.54847
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,11726.63697
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,1160399.407
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,681704.6671
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.426926097
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.317262495
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,66341.80642
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,34228.13567
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Nutritional deficiencies,Number,112843.5416
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Nutritional deficiencies,Number,95210.19106
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Nutritional deficiencies,Percent,0.050565201
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Nutritional deficiencies,Percent,0.051036764
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Nutritional deficiencies,Rate,3731.479818
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Nutritional deficiencies,Rate,3253.838779
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Nutritional deficiencies,Number,32441.97662
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Nutritional deficiencies,Number,70620.10242
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Nutritional deficiencies,Percent,0.006267605
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Nutritional deficiencies,Percent,0.016124043
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Nutritional deficiencies,Rate,191.9453176
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Nutritional deficiencies,Rate,411.3508496
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Nutritional deficiencies,Number,13897.53473
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Nutritional deficiencies,Number,18107.2388
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Nutritional deficiencies,Percent,0.005100674
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Nutritional deficiencies,Percent,0.008405806
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Nutritional deficiencies,Rate,794.5432865
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Nutritional deficiencies,Rate,909.1576691
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Protein-energy malnutrition,Number,87568.97506
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Protein-energy malnutrition,Number,76405.76495
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Protein-energy malnutrition,Percent,0.039131381
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Protein-energy malnutrition,Percent,0.040895309
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Protein-energy malnutrition,Rate,2895.707263
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Protein-energy malnutrition,Rate,2611.191493
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Protein-energy malnutrition,Number,15758.16419
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Protein-energy malnutrition,Number,10492.36208
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Protein-energy malnutrition,Percent,0.003044599
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Protein-energy malnutrition,Percent,0.00240523
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Protein-energy malnutrition,Rate,93.23432622
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Protein-energy malnutrition,Rate,61.1163381
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Protein-energy malnutrition,Number,10112.27463
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Protein-energy malnutrition,Number,6617.32813
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Protein-energy malnutrition,Percent,0.003708105
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Protein-energy malnutrition,Percent,0.00306397
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Protein-energy malnutrition,Rate,578.1341853
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Protein-energy malnutrition,Rate,332.2535637
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Non-communicable diseases,Number,272197.972
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Non-communicable diseases,Number,224933.9303
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Non-communicable diseases,Percent,0.122116121
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Non-communicable diseases,Percent,0.120643287
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Non-communicable diseases,Rate,9000.969168
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Non-communicable diseases,Rate,7687.189124
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Non-communicable diseases,Number,1794688.648
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Non-communicable diseases,Number,2011725.865
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Non-communicable diseases,Percent,0.346784928
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Non-communicable diseases,Percent,0.460026186
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Non-communicable diseases,Rate,10618.4061
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Non-communicable diseases,Rate,11717.98278
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Non-communicable diseases,Number,1164587.558
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Non-communicable diseases,Number,1249960.243
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Non-communicable diseases,Percent,0.427534125
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Non-communicable diseases,Percent,0.579915801
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Non-communicable diseases,Rate,66581.24941
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Non-communicable diseases,Rate,62760.03504
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,1846306.385
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Number,1832382.218
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.443724927
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.493861365
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,13983.65814
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,13251.8338
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,653575.2182
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Number,496902.1849
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.379394922
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Percent,0.343884802
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,62847.77108
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,"Communicable, maternal, neonatal, and nutritional diseases",Rate,37317.3386
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Other infectious diseases,Number,113774.0986
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Other infectious diseases,Number,102193.4251
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Other infectious diseases,Percent,0.050919175
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Other infectious diseases,Percent,0.054825598
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,<5 years,Other infectious diseases,Rate,3762.251224
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,<5 years,Other infectious diseases,Rate,3492.493041
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Other infectious diseases,Number,107551.9926
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Other infectious diseases,Number,81676.48624
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Other infectious diseases,Percent,0.020787984
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Other infectious diseases,Percent,0.018735049
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,10 - 54 years,Other infectious diseases,Rate,636.3391978
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,10 - 54 years,Other infectious diseases,Rate,475.7525245
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Other infectious diseases,Number,25458.64418
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Other infectious diseases,Number,23669.74573
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Other infectious diseases,Percent,0.009336395
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Other infectious diseases,Percent,0.0109667
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Male,55+ years,Other infectious diseases,Rate,1455.509571
+DALYs (Disability-Adjusted Life Years),Republic of Kenya,Female,55+ years,Other infectious diseases,Rate,1188.449056
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Measles,Number,16166.85828
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Measles,Number,12553.36851
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Measles,Percent,0.003145306
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Measles,Percent,0.003000308
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Measles,Rate,433.1439375
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Measles,Rate,350.1369892
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Measles,Number,362.7914001
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Measles,Number,191.7920065
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Measles,Percent,8.7e-05
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Measles,Percent,5.14e-05
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Measles,Rate,2.747729714
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Measles,Rate,1.387044563
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Measles,Number,1.842108677
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Measles,Number,1.291370046
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Measles,Percent,1.06e-06
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Measles,Percent,8.85e-07
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Measles,Rate,0.177137109
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Measles,Rate,0.09698185
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Neglected tropical diseases and malaria,Number,1539186.65
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Neglected tropical diseases and malaria,Number,1453977.813
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Neglected tropical diseases and malaria,Percent,0.294233416
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Neglected tropical diseases and malaria,Percent,0.343194411
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,<5 years,Neglected tropical diseases and malaria,Rate,41238.0287
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,<5 years,Neglected tropical diseases and malaria,Rate,40554.16786
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Neglected tropical diseases and malaria,Number,328458.7304
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Neglected tropical diseases and malaria,Number,219682.878
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.078349285
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Neglected tropical diseases and malaria,Percent,0.058831079
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,10 - 54 years,Neglected tropical diseases and malaria,Rate,2487.699028
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,10 - 54 years,Neglected tropical diseases and malaria,Rate,1588.75204
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Neglected tropical diseases and malaria,Number,55834.25714
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Neglected tropical diseases and malaria,Number,52557.29054
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Neglected tropical diseases and malaria,Percent,0.032257939
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Neglected tropical diseases and malaria,Percent,0.036113933
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Male,55+ years,Neglected tropical diseases and malaria,Rate,5369.020295
+DALYs (Disability-Adjusted Life Years),Republic of Uganda,Female,55+ years,Neglected tropical diseases and malaria,Rate,3947.050882
